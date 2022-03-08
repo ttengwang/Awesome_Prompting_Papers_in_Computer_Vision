@@ -11,7 +11,7 @@ A curated list of prompt-based paper in computer vision and vision-language lear
 - `NIPS'21` Multimodal Few-Shot Learning with Frozen Language Models	[[paper]](https://arxiv.org/abs/2106.13884)
 - `ICCV'21` StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery	 [[paper]](https://arxiv.org/abs/2103.17249)
 - `Arxiv 21/12` Align and Prompt: Video-and-Language Pre-training with Entity Prompts [[paper]](https://arxiv.org/abs/2112.09583)
-- `Arxiv 21/12` Learning to Prompt for Continual Learning	 [[paper]](https://arxiv.org/abs/2112.08654)
+- `Arxiv 21/12` Learning to Prompt for Continual Learning	 [[paper]](https://arxiv.org/abs/2112.08654) [[code]](https://github.com/google-research/l2p)
 - `Arxiv 21/12` Prompting Visual-Language Models for Efficient Video Understanding [[paper]](https://arxiv.org/abs/2112.04478)
 - `Arxiv 21/12` Grounded Language-Image Pre-training [[paper]](https://arxiv.org/pdf/2112.03857.pdf)
 - `Arxiv 21/12` Prompt-Based Multi-Modal Image Segmentation	[[paper]](https://arxiv.org/abs/2112.10003)
