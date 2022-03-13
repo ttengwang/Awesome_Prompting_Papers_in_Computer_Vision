@@ -29,3 +29,4 @@ A curated list of prompt-based paper in computer vision and vision-language lear
 
 ### Other Resources 
 - [PromptPapers](https://github.com/thunlp/PromptPapers): A comprehensive curated list for prompting paper (mainly in natural language processing)
+- - `Arxiv 21/7` Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing	[[paper]](https://arxiv.org/abs/2107.13586)
