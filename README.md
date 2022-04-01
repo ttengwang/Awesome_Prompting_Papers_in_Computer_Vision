@@ -7,6 +7,8 @@ A curated list of prompt-based paper in computer vision and vision-language lear
 - `CVPR'22` GroupViT: Semantic Segmentation Emerges from Text Supervision [[paper]](https://arxiv.org/pdf/2202.11094.pdf) [[code]](https://jerryxu.net/GroupViT/)
 - `CVPR'22` Prompt-Based Multi-Modal Image Segmentation	[[paper]](https://arxiv.org/abs/2112.10003) [[code]](https://github.com/timojl/clipseg)
 - `Arxiv 22/03` **(VPT)** Visual Prompt Tuning [[paper]](https://arxiv.org/pdf/2203.12119.pdf)
+- `Arxiv 22/03` Visual Prompting: Modifying Pixel Space to Adapt Pre-trained Models [[paper]](https://arxiv.org/pdf/2203.17274.pdf) [[code]](https://hjbahng.github.io/visual_prompting/)
+
 ### 2021
 
 - `ICML'21` Unifying Vision-and-Language Tasks via Text Generation [[paper]](https://arxiv.org/abs/2102.02779) [[code]](https://github.com/j-min/VL-T5)
