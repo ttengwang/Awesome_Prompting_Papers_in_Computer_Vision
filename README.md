@@ -1,13 +1,15 @@
 # Awesome Prompting Papers in Computer Vision
-A curated list of prompt-based paper in computer vision and vision-language learning.
+A curated list of prompt/adapter-based papers in computer vision and vision-language learning.
 
 ### 2022
 - `CVPR'22` DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting	[[paper]](https://arxiv.org/pdf/2112.01518.pdf) [[code]](https://github.com/raoyongming/denseclip)
 - `CVPR'22` Conditional Prompt Learning for Vision-Language Models [[paper]](https://arxiv.org/pdf/2203.05557.pdf) [[code]](https://github.com/KaiyangZhou/CoOp)
 - `CVPR'22` GroupViT: Semantic Segmentation Emerges from Text Supervision [[paper]](https://arxiv.org/pdf/2202.11094.pdf) [[code]](https://jerryxu.net/GroupViT/)
 - `CVPR'22` Prompt-Based Multi-Modal Image Segmentation	[[paper]](https://arxiv.org/abs/2112.10003) [[code]](https://github.com/timojl/clipseg)
+- `Arxiv 22/04` Unsupervised Prompt Learning for Vision-Language Models [[paper]](https://arxiv.org/pdf/2204.03649.pdf) [[code]](https://github.com/tonyhuang2022/UPL)
 - `Arxiv 22/03` **(VPT)** Visual Prompt Tuning [[paper]](https://arxiv.org/pdf/2203.12119.pdf)
 - `Arxiv 22/03` Visual Prompting: Modifying Pixel Space to Adapt Pre-trained Models [[paper]](https://arxiv.org/pdf/2203.17274.pdf) [[code]](https://hjbahng.github.io/visual_prompting/)
+
 
 ### 2021
 
@@ -23,6 +25,7 @@ A curated list of prompt-based paper in computer vision and vision-language lear
 - `Arxiv 21/12` Unified Multimodal Pre-training and Prompt-based Tuning for Vision-Language Understanding and Generation [[paper]](https://arxiv.org/abs/2112.05587)
 - `Arxiv 21/11` ClipCap: CLIP Prefix for Image Captioning	[[paper]](https://arxiv.org/abs/2111.09734) [[code]](https://github.com/rmokady/CLIP_prefix_caption)
 - `Arxiv 21/11` Amortized Prompt: Lightweight Fine-Tuning for CLIP in Domain Generalization [[paper]](https://arxiv.org/abs/2111.12853)
+- `Arxiv 21/11` Training-free clip-adapter for better vision-language modeling [[paper]](https://arxiv.org/pdf/2111.03930.pdf) [[code]](https://github.com/gaopengcuhk/tip-adapter)
 - `Arxiv 21/10` A Good Prompt Is Worth Millions of Parameters? Low-resource Prompt-based Learning for Vision-Language Models	[[paper]](https://arxiv.org/abs/2110.08484)
 - `Arxiv 21/10` CLIP-Adapter: Better Vision-Language Models with Feature Adapters [[paper]](https://arxiv.org/abs/2110.04544) [[code]](https://github.com/gaopengcuhk/clip-adapter)
 - `Arxiv 21/09` ActionCLIP: A New Paradigm for Video Action Recognition [[paper]](https://arxiv.org/abs/2109.08472) [[code]](https://github.com/sallymmx/ActionCLIP)
