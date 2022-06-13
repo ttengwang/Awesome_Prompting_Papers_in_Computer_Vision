@@ -9,7 +9,7 @@ A curated list of prompt/adapter-based papers in computer vision and vision-lang
 - `CVPR'22` Prompt-Based Multi-Modal Image Segmentation	[[paper]](https://arxiv.org/abs/2112.10003) [[code]](https://github.com/timojl/clipseg)
 - `Arxiv 22/04` Unsupervised Prompt Learning for Vision-Language Models [[paper]](https://arxiv.org/pdf/2204.03649.pdf) [[code]](https://github.com/tonyhuang2022/UPL)
 - `Arxiv 22/03` **(VPT)** Visual Prompt Tuning [[paper]](https://arxiv.org/pdf/2203.12119.pdf)
-- `Arxiv 22/03` Visual Prompting: Modifying Pixel Space to Adapt Pre-trained Models [[paper]](https://arxiv.org/pdf/2203.17274.pdf) [[code]](https://hjbahng.github.io/visual_prompting/)
+- `Arxiv 22/03` Exploring Visual Prompts for Adapting Large-Scale Models [[paper]](https://arxiv.org/pdf/2203.17274.pdf) [[code]](https://github.com/hjbahng/visual_prompting)
 
 
 ### 2021
