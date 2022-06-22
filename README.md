@@ -4,7 +4,7 @@ A curated list of prompt/adapter-based papers in computer vision and vision-lang
 ### 2022
 - `CVPR 22` Prompt Distribution Learning [[paper]](https://arxiv.org/pdf/2205.03340.pdf)
 - `CVPR'22` DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting	[[paper]](https://arxiv.org/pdf/2112.01518.pdf) [[code]](https://github.com/raoyongming/denseclip)
-- `CVPR'22` **((CoCoOp)** Conditional Prompt Learning for Vision-Language Models [[paper]](https://arxiv.org/pdf/2203.05557.pdf) [[code]](https://github.com/KaiyangZhou/CoOp)
+- `CVPR'22` **(CoCoOp)** Conditional Prompt Learning for Vision-Language Models [[paper]](https://arxiv.org/pdf/2203.05557.pdf) [[code]](https://github.com/KaiyangZhou/CoOp)
 - `CVPR'22` GroupViT: Semantic Segmentation Emerges from Text Supervision [[paper]](https://arxiv.org/pdf/2202.11094.pdf) [[code]](https://jerryxu.net/GroupViT/)
 - `CVPR'22` Prompt-Based Multi-Modal Image Segmentation	[[paper]](https://arxiv.org/abs/2112.10003) [[code]](https://github.com/timojl/clipseg)
 - `Arxiv 22/06` **(DualCoOp)** DualCoOp: Fast Adaptation to Multi-Label
