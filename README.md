@@ -7,6 +7,7 @@ A curated list of prompt/adapter-based papers in computer vision and vision-lang
 - `CVPR'22` **(CoCoOp)** Conditional Prompt Learning for Vision-Language Models [[paper]](https://arxiv.org/pdf/2203.05557.pdf) [[code]](https://github.com/KaiyangZhou/CoOp)
 - `CVPR'22` GroupViT: Semantic Segmentation Emerges from Text Supervision [[paper]](https://arxiv.org/pdf/2202.11094.pdf) [[code]](https://jerryxu.net/GroupViT/)
 - `CVPR'22` Prompt-Based Multi-Modal Image Segmentation	[[paper]](https://arxiv.org/abs/2112.10003) [[code]](https://github.com/timojl/clipseg)
+- `Arxiv 22/06` **(REPE)** Rethinking the Openness of CLIP [[paper]](https://arxiv.org/abs/2206.01986)
 - `Arxiv 22/06` **(DualCoOp)** DualCoOp: Fast Adaptation to Multi-Label
 Recognition with Limited Annotations [[paper]](https://arxiv.org/abs/2206.09541) 
 - `Arxiv 22/06` **(NOAH)** Neural Prompt Search [[paper]](https://arxiv.org/abs/2206.04673) [[code]](https://github.com/Davidzhangyuanhan/NOAH)
