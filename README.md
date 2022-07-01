@@ -25,6 +25,8 @@ Paper information + its tag
     > - `CVPR'22` **(CoCoOp)** Conditional Prompt Learning for Vision-Language Models [[paper]](https://arxiv.org/pdf/2203.05557.pdf) [[code]](https://github.com/KaiyangZhou/CoOp)
     > - `Arxiv 22/05` Prompt-aligned Gradient for Prompt Tuning [[paper]](https://arxiv.org/abs/2205.14865) [[code]](https://github.com/BeierZhu/Prompt-align) 
 
+3.  `Arxiv 21/08` **(CPT)** Colorful Prompt Tuning for Pre-trained Vision-Language Models [[paper]](https://arxiv.org/abs/2109.11797) ![](https://img.shields.io/badge/visual--grounding-759CBC?style=flat-square)
+
 3. `Arxiv 21/10` CLIP-Adapter: Better Vision-Language Models with Feature Adapters [[paper]](https://arxiv.org/abs/2110.04544) [[code]](https://github.com/gaopengcuhk/clip-adapter) ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
     > - `Arxiv 21/11` **(Tip-Adapter)** Tip-Adapter: Training-free CLIP-Adapter for Better Vision-Language Modeling [[paper]](https://arxiv.org/pdf/2111.03930.pdf) [[code]](https://github.com/gaopengcuhk/tip-adapter)
 
@@ -58,7 +60,7 @@ This section contains papers using prompt module as tool for specific applicatio
 
 - `CVPR'22` Grounded Language-Image Pre-training [[paper]](https://arxiv.org/pdf/2112.03857.pdf) [[code]](https://github.com/microsoft/GLIP)
 - `CVPR'22` PointCLIP: Point Cloud Understanding by CLIP	[[paper]](https://arxiv.org/pdf/2112.02413.pdf) [[code]](https://github.com/ZrrSkywalker/PointCLIP)
-- `CVPR'22` Align and Prompt: Video-and-Language Pre-training with Entity Prompts [[paper]](https://arxiv.org/abs/2112.09583) [[code]](https://github.com/salesforce/ALPRO)
+- `CVPR'22` Align and Prompt: Video-and-Language Pre-training with Entity Prompts [[paper]](https://arxiv.org/abs/2112.09583) [[code]](https://github.com/salesforce/ALPRO) ![task](https://img.shields.io/badge/VL--pre--training-759CBC?style=flat-square)
 
 - `CVPR'22` GroupViT: Semantic Segmentation Emerges from Text Supervision [[paper]](https://arxiv.org/pdf/2202.11094.pdf) [[code]](https://jerryxu.net/GroupViT/)
 - `CVPR'22` Prompt-Based Multi-Modal Image Segmentation	[[paper]](https://arxiv.org/abs/2112.10003) [[code]](https://github.com/timojl/clipseg)
@@ -72,7 +74,6 @@ This section contains papers using prompt module as tool for specific applicatio
 - `Arxiv 21/11` ClipCap: CLIP Prefix for Image Captioning	[[paper]](https://arxiv.org/abs/2111.09734) [[code]](https://github.com/rmokady/CLIP_prefix_caption)
 - `Arxiv 21/11` Amortized Prompt: Lightweight Fine-Tuning for CLIP in Domain Generalization [[paper]](https://arxiv.org/abs/2111.12853)
 - `Arxiv 21/09` ActionCLIP: A New Paradigm for Video Action Recognition [[paper]](https://arxiv.org/abs/2109.08472) [[code]](https://github.com/sallymmx/ActionCLIP)
-- `Arxiv 21/08` **(CPT)** Colorful Prompt Tuning for Pre-trained Vision-Language Models [[paper]](https://arxiv.org/abs/2109.11797)
 - `Arxiv 22/06` **(REPE)** Rethinking the Openness of CLIP [[paper]](https://arxiv.org/abs/2206.01986)
 
 ### Other Resources 
