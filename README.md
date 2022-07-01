@@ -34,7 +34,7 @@ Paper information + its tag
 3. `Arxiv 21/10` CLIP-Adapter: Better Vision-Language Models with Feature Adapters [[paper]](https://arxiv.org/abs/2110.04544) [[code]](https://github.com/gaopengcuhk/clip-adapter) ![](https://img.shields.io/badge/task-image--classification-759CBC?style=flat-square)
 
 4. `Arxiv 22/03` **(VPT)** Visual Prompt Tuning [[paper]](https://arxiv.org/pdf/2203.12119.pdf) ![](https://img.shields.io/badge/task-image--classification-759CBC?style=flat-square) 
-    > - `Arxiv 22/03` Exploring Visual Prompts for Adapting Large-Scale Models [[paper]](https://arxiv.org/pdf/2203.17274.pdf) [[code]](https://github.com/hjbahng/visual_prompting) (concurrent)
+    > - `Arxiv 22/03` Exploring Visual Prompts for Adapting Large-Scale Models [[paper]](https://arxiv.org/pdf/2203.17274.pdf) [[code]](https://github.com/hjbahng/visual_prompting) (concurrent work)
 
 5. `Arxiv 22/05` **(AdaptFormer)** AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition
  [[paper]](https://arxiv.org/abs/2205.13535) [[code]](https://github.com/ShoufaChen/AdaptFormer) ![](https://img.shields.io/badge/task-image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/task-action--recognition-759CBC?style=flat-square)
