@@ -4,11 +4,11 @@
 A curated list of prompt/adapter-based papers in computer vision and vision-language learning.
 
 ### Keyword
-Task: This paper focus on which task. ![task](https://img.shields.io/badge/task-image--classification-green?style=flat-square)
+Task: This paper focus on which task. ![task](https://img.shields.io/badge/task-image--classification-759CBC?style=flat-square)
 
 
-Specific tag: Some characteristic makes this paper unique. ![](https://img.shields.io/badge/NAS-blue?style=flat-square)
-![](https://img.shields.io/badge/unsupervised-blue?style=flat-square)
+Specific tag: Some characteristic makes this paper unique. ![](https://img.shields.io/badge/NAS-BC9575?style=flat-square)
+![](https://img.shields.io/badge/unsupervised-BC9575?style=flat-square)
 
 ## Prompt module design
 This section contains papers define the general trends of the prompt module design in computer vision. We organize these papers as follows.
@@ -20,29 +20,29 @@ Paper information + its tag
 
 ### Papers
 
-1. `CVPR'22` DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting	[[paper]](https://arxiv.org/pdf/2112.01518.pdf)[[code]](https://github.com/raoyongming/denseclip)  ![](https://img.shields.io/badge/task-semantic--segmentation-green?style=flat-square)
-![](https://img.shields.io/badge/task-instance--segmentation-green?style=flat-square)
-![](https://img.shields.io/badge/task-object--detection-green?style=flat-square)
-2. `Arxiv 21/09` **(CoOP)** Learning to Prompt for Vision-Language Models 	[[paper]](https://arxiv.org/abs/2109.01134) [[code]](https://github.com/KaiyangZhou/CoOp) ![](https://img.shields.io/badge/task-image--classification-green?style=flat-square)
+1. `CVPR'22` DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting	[[paper]](https://arxiv.org/pdf/2112.01518.pdf)[[code]](https://github.com/raoyongming/denseclip)  ![](https://img.shields.io/badge/task-semantic--segmentation-759CBC?style=flat-square)
+![](https://img.shields.io/badge/task-instance--segmentation-759CBC?style=flat-square)
+![](https://img.shields.io/badge/task-object--detection-759CBC?style=flat-square)
+2. `Arxiv 21/09` **(CoOP)** Learning to Prompt for Vision-Language Models 	[[paper]](https://arxiv.org/abs/2109.01134) [[code]](https://github.com/KaiyangZhou/CoOp) ![](https://img.shields.io/badge/task-image--classification-759CBC?style=flat-square)
     > - `CVPR'22` Prompt Distribution Learning [[paper]](https://arxiv.org/pdf/2205.03340.pdf) 
     > - `CVPR'22` **(CoCoOp)** Conditional Prompt Learning for Vision-Language Models [[paper]](https://arxiv.org/pdf/2203.05557.pdf) [[code]](https://github.com/KaiyangZhou/CoOp)
     > - `Arxiv 22/06` **(DualCoOp)** DualCoOp: Fast Adaptation to Multi-Label Recognition with Limited Annotations [[paper]](https://arxiv.org/abs/2206.09541) 
     > - `Arxiv 22/05` Prompt-aligned Gradient for Prompt Tuning [[paper]](https://arxiv.org/abs/2205.14865) [[code]](https://github.com/BeierZhu/Prompt-align) 
 
-3. `Arxiv 21/10` CLIP-Adapter: Better Vision-Language Models with Feature Adapters [[paper]](https://arxiv.org/abs/2110.04544) [[code]](https://github.com/gaopengcuhk/clip-adapter) ![](https://img.shields.io/badge/task-image--classification-green?style=flat-square)
+3. `Arxiv 21/10` CLIP-Adapter: Better Vision-Language Models with Feature Adapters [[paper]](https://arxiv.org/abs/2110.04544) [[code]](https://github.com/gaopengcuhk/clip-adapter) ![](https://img.shields.io/badge/task-image--classification-759CBC?style=flat-square)
 
-4. `Arxiv 22/03` **(VPT)** Visual Prompt Tuning [[paper]](https://arxiv.org/pdf/2203.12119.pdf) ![](https://img.shields.io/badge/task-image--classification-green?style=flat-square) 
+4. `Arxiv 22/03` **(VPT)** Visual Prompt Tuning [[paper]](https://arxiv.org/pdf/2203.12119.pdf) ![](https://img.shields.io/badge/task-image--classification-759CBC?style=flat-square) 
     > - `Arxiv 22/03` Exploring Visual Prompts for Adapting Large-Scale Models [[paper]](https://arxiv.org/pdf/2203.17274.pdf) [[code]](https://github.com/hjbahng/visual_prompting) (concurrent)
 
 5. `Arxiv 22/05` **(AdaptFormer)** AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition
- [[paper]](https://arxiv.org/abs/2205.13535) [[code]](https://github.com/ShoufaChen/AdaptFormer) ![](https://img.shields.io/badge/task-semantic--segmentation-green?style=flat-square) ![](https://img.shields.io/badge/task-image--classification-green?style=flat-square) ![](https://img.shields.io/badge/task-semantic--segmentation-green?style=flat-square)
+ [[paper]](https://arxiv.org/abs/2205.13535) [[code]](https://github.com/ShoufaChen/AdaptFormer) ![](https://img.shields.io/badge/task-semantic--segmentation-759CBC?style=flat-square) ![](https://img.shields.io/badge/task-image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/task-semantic--segmentation-759CBC?style=flat-square)
 
-6. `Arxiv 22/04` **(UPL)** Unsupervised Prompt Learning for Vision-Language Models [[paper]](https://arxiv.org/pdf/2204.03649.pdf) [[code]](https://github.com/tonyhuang2022/UPL) ![task](https://img.shields.io/badge/task-action--recognition-green?style=flat-square) ![](https://img.shields.io/badge/tag-unsupervised-blue?style=flat-square)
+6. `Arxiv 22/04` **(UPL)** Unsupervised Prompt Learning for Vision-Language Models [[paper]](https://arxiv.org/pdf/2204.03649.pdf) [[code]](https://github.com/tonyhuang2022/UPL) ![task](https://img.shields.io/badge/task-action--recognition-759CBC?style=flat-square) ![](https://img.shields.io/badge/tag-unsupervised-BC9575?style=flat-square)
 
-7. `Arxiv 22/06` **(NOAH)** Neural Prompt Search [[paper]](https://arxiv.org/abs/2206.04673) [[code]](https://github.com/Davidzhangyuanhan/NOAH) ![](https://img.shields.io/badge/task-image--classification-green?style=flat-square) ![](https://img.shields.io/badge/tag-NAS-blue?style=flat-square)
+7. `Arxiv 22/06` **(NOAH)** Neural Prompt Search [[paper]](https://arxiv.org/abs/2206.04673) [[code]](https://github.com/Davidzhangyuanhan/NOAH) ![](https://img.shields.io/badge/task-image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/tag-NAS-BC9575?style=flat-square)
 
 8. `Arxiv 22/06` Parameter-Efficient Image-to-Video Transfer
-Learning [[paper]](https://arxiv.org/pdf/2206.13559.pdf) ![task](https://img.shields.io/badge/task-action--recognition-green?style=flat-square)
+Learning [[paper]](https://arxiv.org/pdf/2206.13559.pdf) ![task](https://img.shields.io/badge/task-action--recognition-759CBC?style=flat-square)
 
 
 ## Prompt module application
