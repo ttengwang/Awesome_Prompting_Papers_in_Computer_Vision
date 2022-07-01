@@ -30,6 +30,8 @@ Paper information + its tag
 ![](https://img.shields.io/badge/instance--segmentation-759CBC?style=flat-square)
 ![](https://img.shields.io/badge/object--detection-759CBC?style=flat-square)
 
+5. `CVPR'22` Learning to Prompt for Continual Learning	 [[paper]](https://arxiv.org/abs/2112.08654) [[code]](https://github.com/google-research/l2p) ![](https://img.shields.io/badge/continue--learning-759CBC?style=flat-square)
+
 6. `Arxiv 22/03` **(VPT)** Visual Prompt Tuning [[paper]](https://arxiv.org/pdf/2203.12119.pdf) ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) 
 
 7. `Arxiv 22/03` Exploring Visual Prompts for Adapting Large-Scale Models [[paper]](https://arxiv.org/pdf/2203.17274.pdf) [[code]](https://github.com/hjbahng/visual_prompting) ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) 
@@ -61,7 +63,6 @@ This section contains papers using prompt module as tool for specific applicatio
 - `ICML'21` Unifying Vision-and-Language Tasks via Text Generation [[paper]](https://arxiv.org/abs/2102.02779) [[code]](https://github.com/j-min/VL-T5)
 - `NIPS'21` Multimodal Few-Shot Learning with Frozen Language Models	[[paper]](https://arxiv.org/abs/2106.13884)
 - `ICCV'21` StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery	 [[paper]](https://arxiv.org/abs/2103.17249) [[code]](https://github.com/orpatashnik/StyleCLIP)
-- `Arxiv 21/12` Learning to Prompt for Continual Learning	 [[paper]](https://arxiv.org/abs/2112.08654) [[code]](https://github.com/google-research/l2p)
 - `Arxiv 21/12` Prompting Visual-Language Models for Efficient Video Understanding [[paper]](https://arxiv.org/abs/2112.04478) [[code]](https://github.com/ju-chen/Efficient-Prompt)
 - `Arxiv 21/12` Unified Multimodal Pre-training and Prompt-based Tuning for Vision-Language Understanding and Generation [[paper]](https://arxiv.org/abs/2112.05587)
 - `Arxiv 21/11` ClipCap: CLIP Prefix for Image Captioning	[[paper]](https://arxiv.org/abs/2111.09734) [[code]](https://github.com/rmokady/CLIP_prefix_caption)
