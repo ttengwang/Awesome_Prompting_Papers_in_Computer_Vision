@@ -37,7 +37,7 @@ Paper information + its tag
     > - `Arxiv 22/03` Exploring Visual Prompts for Adapting Large-Scale Models [[paper]](https://arxiv.org/pdf/2203.17274.pdf) [[code]](https://github.com/hjbahng/visual_prompting) (concurrent)
 
 5. `Arxiv 22/05` **(AdaptFormer)** AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition
- [[paper]](https://arxiv.org/abs/2205.13535) [[code]](https://github.com/ShoufaChen/AdaptFormer) ![](https://img.shields.io/badge/task-semantic--segmentation-759CBC?style=flat-square) ![](https://img.shields.io/badge/task-image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/task-semantic--segmentation-759CBC?style=flat-square)
+ [[paper]](https://arxiv.org/abs/2205.13535) [[code]](https://github.com/ShoufaChen/AdaptFormer) ![](https://img.shields.io/badge/task-image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/task-action--recognition-759CBC?style=flat-square)
 
 6. `Arxiv 22/04` **(UPL)** Unsupervised Prompt Learning for Vision-Language Models [[paper]](https://arxiv.org/pdf/2204.03649.pdf) [[code]](https://github.com/tonyhuang2022/UPL) ![task](https://img.shields.io/badge/task-action--recognition-759CBC?style=flat-square) ![](https://img.shields.io/badge/tag-unsupervised-BC9575?style=flat-square)
 
