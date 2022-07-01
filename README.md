@@ -16,7 +16,7 @@ This section contains papers designing prompt modules for parameter-efficient tu
 ### e.g
 Paper information + its tag
 > - Concurrent works
-> - Further works: works that motivated by solving a important problem in this paper.
+> - Further works: works that motivated by this paper.
 
 
 ### Papers
