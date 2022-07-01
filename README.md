@@ -4,7 +4,7 @@
 A curated list of prompt/adapter-based papers in computer vision and vision-language learning.
 
 ### Keyword
-Task tag: This paper focus on which task. ![task](https://img.shields.io/badge/task-image--classification-759CBC?style=flat-square)
+Task tag: This paper focus on which task. ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/semantic--segmentation-759CBC?style=flat-square)
 
 
 Characteristic tag: Some characteristic makes this paper unique. ![](https://img.shields.io/badge/NAS-BC9575?style=flat-square)
@@ -15,35 +15,36 @@ This section contains papers designing prompt modules for parameter-efficient tu
 
 ### e.g
 Paper information + its tag
-> - Concurrent works
 > - Further works: works that motivated by this paper.
 
 
 ### Papers
-
-1. `CVPR'22` DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting	[[paper]](https://arxiv.org/pdf/2112.01518.pdf)[[code]](https://github.com/raoyongming/denseclip)  ![](https://img.shields.io/badge/task-semantic--segmentation-759CBC?style=flat-square)
-![](https://img.shields.io/badge/task-instance--segmentation-759CBC?style=flat-square)
-![](https://img.shields.io/badge/task-object--detection-759CBC?style=flat-square)
-2. `Arxiv 21/09` **(CoOP)** Learning to Prompt for Vision-Language Models 	[[paper]](https://arxiv.org/abs/2109.01134) [[code]](https://github.com/KaiyangZhou/CoOp) ![](https://img.shields.io/badge/task-image--classification-759CBC?style=flat-square)
+1. `ICML'21` **(CLIP)** Learning Transferable Visual Models From Natural Language Supervision [[paper]](https://arxiv.org/abs/2103.00020) [[code]](https://github.com/OpenAI/CLIP) ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
+2. `Arxiv 21/09` **(CoOP)** Learning to Prompt for Vision-Language Models 	[[paper]](https://arxiv.org/abs/2109.01134) [[code]](https://github.com/KaiyangZhou/CoOp) ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
     > - `CVPR'22` Prompt Distribution Learning [[paper]](https://arxiv.org/pdf/2205.03340.pdf) 
     > - `CVPR'22` **(CoCoOp)** Conditional Prompt Learning for Vision-Language Models [[paper]](https://arxiv.org/pdf/2203.05557.pdf) [[code]](https://github.com/KaiyangZhou/CoOp)
-    > - `Arxiv 22/06` **(DualCoOp)** DualCoOp: Fast Adaptation to Multi-Label Recognition with Limited Annotations [[paper]](https://arxiv.org/abs/2206.09541) 
     > - `Arxiv 22/05` Prompt-aligned Gradient for Prompt Tuning [[paper]](https://arxiv.org/abs/2205.14865) [[code]](https://github.com/BeierZhu/Prompt-align) 
 
-3. `Arxiv 21/10` CLIP-Adapter: Better Vision-Language Models with Feature Adapters [[paper]](https://arxiv.org/abs/2110.04544) [[code]](https://github.com/gaopengcuhk/clip-adapter) ![](https://img.shields.io/badge/task-image--classification-759CBC?style=flat-square)
+3. `Arxiv 21/10` CLIP-Adapter: Better Vision-Language Models with Feature Adapters [[paper]](https://arxiv.org/abs/2110.04544) [[code]](https://github.com/gaopengcuhk/clip-adapter) ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
+4. `CVPR'22` DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting	[[paper]](https://arxiv.org/pdf/2112.01518.pdf)[[code]](https://github.com/raoyongming/denseclip)  ![](https://img.shields.io/badge/semantic--segmentation-759CBC?style=flat-square)
+![](https://img.shields.io/badge/instance--segmentation-759CBC?style=flat-square)
+![](https://img.shields.io/badge/object--detection-759CBC?style=flat-square)
 
-4. `Arxiv 22/03` **(VPT)** Visual Prompt Tuning [[paper]](https://arxiv.org/pdf/2203.12119.pdf) ![](https://img.shields.io/badge/task-image--classification-759CBC?style=flat-square) 
-    > - `Arxiv 22/03` Exploring Visual Prompts for Adapting Large-Scale Models [[paper]](https://arxiv.org/pdf/2203.17274.pdf) [[code]](https://github.com/hjbahng/visual_prompting) (concurrent work)
+6. `Arxiv 22/03` **(VPT)** Visual Prompt Tuning [[paper]](https://arxiv.org/pdf/2203.12119.pdf) ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) 
 
-5. `Arxiv 22/05` **(AdaptFormer)** AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition
- [[paper]](https://arxiv.org/abs/2205.13535) [[code]](https://github.com/ShoufaChen/AdaptFormer) ![](https://img.shields.io/badge/task-image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/task-action--recognition-759CBC?style=flat-square)
+7. `Arxiv 22/03` Exploring Visual Prompts for Adapting Large-Scale Models [[paper]](https://arxiv.org/pdf/2203.17274.pdf) [[code]](https://github.com/hjbahng/visual_prompting) ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) 
 
-6. `Arxiv 22/04` **(UPL)** Unsupervised Prompt Learning for Vision-Language Models [[paper]](https://arxiv.org/pdf/2204.03649.pdf) [[code]](https://github.com/tonyhuang2022/UPL) ![task](https://img.shields.io/badge/task-action--recognition-759CBC?style=flat-square) ![](https://img.shields.io/badge/tag-unsupervised-BC9575?style=flat-square)
+8. `Arxiv 22/04` **(UPL)** Unsupervised Prompt Learning for Vision-Language Models [[paper]](https://arxiv.org/pdf/2204.03649.pdf) [[code]](https://github.com/tonyhuang2022/UPL) ![task](https://img.shields.io/badge/action--recognition-759CBC?style=flat-square) ![](https://img.shields.io/badge/unsupervised-BC9575?style=flat-square)
 
-7. `Arxiv 22/06` **(NOAH)** Neural Prompt Search [[paper]](https://arxiv.org/abs/2206.04673) [[code]](https://github.com/Davidzhangyuanhan/NOAH) ![](https://img.shields.io/badge/task-image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/tag-NAS-BC9575?style=flat-square)
+9. `Arxiv 22/05` **(AdaptFormer)** AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition
+ [[paper]](https://arxiv.org/abs/2205.13535) [[code]](https://github.com/ShoufaChen/AdaptFormer) ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/action--recognition-759CBC?style=flat-square)
 
-8. `Arxiv 22/06` Parameter-Efficient Image-to-Video Transfer
-Learning [[paper]](https://arxiv.org/pdf/2206.13559.pdf) ![task](https://img.shields.io/badge/task-action--recognition-759CBC?style=flat-square)
+10. `Arxiv 22/06` **(NOAH)** Neural Prompt Search [[paper]](https://arxiv.org/abs/2206.04673) [[code]](https://github.com/Davidzhangyuanhan/NOAH) ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/NAS-BC9575?style=flat-square)
+
+11. `Arxiv 22/06` Parameter-Efficient Image-to-Video Transfer
+Learning [[paper]](https://arxiv.org/pdf/2206.13559.pdf) ![task](https://img.shields.io/badge/action--recognition-759CBC?style=flat-square)
+
+12.  `Arxiv 22/06` **(DualCoOp)** DualCoOp: Fast Adaptation to Multi-Label Recognition with Limited Annotations [[paper]](https://arxiv.org/abs/2206.09541) ![task](https://img.shields.io/badge/multi--label--recognition-759CBC?style=flat-square) 
 
 
 ## Prompt module application
@@ -58,7 +59,6 @@ This section contains papers using prompt module as tool for specific applicatio
 - `ACL'22` A Good Prompt Is Worth Millions of Parameters? Low-resource Prompt-based Learning for Vision-Language Models	[[paper]](https://arxiv.org/abs/2110.08484)
 
 - `ICML'21` Unifying Vision-and-Language Tasks via Text Generation [[paper]](https://arxiv.org/abs/2102.02779) [[code]](https://github.com/j-min/VL-T5)
-- `ICML'21` **(CLIP)** Learning Transferable Visual Models From Natural Language Supervision [[paper]](https://arxiv.org/abs/2103.00020) [[code]](https://github.com/OpenAI/CLIP)
 - `NIPS'21` Multimodal Few-Shot Learning with Frozen Language Models	[[paper]](https://arxiv.org/abs/2106.13884)
 - `ICCV'21` StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery	 [[paper]](https://arxiv.org/abs/2103.17249) [[code]](https://github.com/orpatashnik/StyleCLIP)
 - `Arxiv 21/12` Learning to Prompt for Continual Learning	 [[paper]](https://arxiv.org/abs/2112.08654) [[code]](https://github.com/google-research/l2p)
