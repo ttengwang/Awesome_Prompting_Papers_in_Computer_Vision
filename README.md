@@ -11,7 +11,7 @@ Specific tag: Some characteristic makes this paper unique. ![](https://img.shiel
 ![](https://img.shields.io/badge/unsupervised-BC9575?style=flat-square)
 
 ## Prompt module design
-This section contains papers define the general trends of the prompt module design in computer vision. We organize these papers as follows.
+This section contains papers designing prompt modules for parameter-efficient tuning of foundation models. We organize these papers as follows.
 
 ### e.g
 Paper information + its tag
@@ -48,6 +48,7 @@ Learning [[paper]](https://arxiv.org/pdf/2206.13559.pdf) ![task](https://img.shi
 
 
 ## Prompt module application
+This section contains papers using prompt module as tool for specific application (how to design a prompt model is not a contribution in such paper). For example, PointCLIP use text prompt module designed by CLIP to retrive image.
 
 - `CVPR'22` Grounded Language-Image Pre-training [[paper]](https://arxiv.org/pdf/2112.03857.pdf) [[code]](https://github.com/microsoft/GLIP)
 - `CVPR'22` PointCLIP: Point Cloud Understanding by CLIP	[[paper]](https://arxiv.org/pdf/2112.02413.pdf) [[code]](https://github.com/ZrrSkywalker/PointCLIP)
