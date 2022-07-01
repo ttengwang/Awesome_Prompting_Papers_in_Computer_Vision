@@ -4,10 +4,10 @@
 A curated list of prompt/adapter-based papers in computer vision and vision-language learning.
 
 ### Keyword
-Task: This paper focus on which task. ![task](https://img.shields.io/badge/task-image--classification-759CBC?style=flat-square)
+Task tag: This paper focus on which task. ![task](https://img.shields.io/badge/task-image--classification-759CBC?style=flat-square)
 
 
-Specific tag: Some characteristic makes this paper unique. ![](https://img.shields.io/badge/NAS-BC9575?style=flat-square)
+Characteristic tag: Some characteristic makes this paper unique. ![](https://img.shields.io/badge/NAS-BC9575?style=flat-square)
 ![](https://img.shields.io/badge/unsupervised-BC9575?style=flat-square)
 
 ## Prompt module design
@@ -15,9 +15,8 @@ This section contains papers designing prompt modules for parameter-efficient tu
 
 ### e.g
 Paper information + its tag
-> - Its concurrent work (concurrent work)
-> - Its improvements 1
-> - Its improvements 2
+> - Concurrent works
+> - Improvemental works
 
 
 ### Papers
