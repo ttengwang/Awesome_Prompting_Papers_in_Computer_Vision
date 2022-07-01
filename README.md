@@ -13,10 +13,12 @@ Specific tag: Some characteristic makes this paper unique. ![](https://img.shiel
 ## Prompt module design
 This section contains papers define the general trends of the prompt module design in computer vision. We organize these papers as follows.
 
-Paper information + its tag 
-- Its concurrent work (concurrent work)
-- Its improvements 1
-- Its improvements 2
+### e.g
+Paper information + its tag
+> - Its concurrent work (concurrent work)
+> - Its improvements 1
+> - Its improvements 2
+
 
 ### Papers
 
