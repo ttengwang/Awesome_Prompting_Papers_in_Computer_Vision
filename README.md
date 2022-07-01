@@ -26,6 +26,8 @@ Paper information + its tag
     > - `Arxiv 22/05` Prompt-aligned Gradient for Prompt Tuning [[paper]](https://arxiv.org/abs/2205.14865) [[code]](https://github.com/BeierZhu/Prompt-align) 
 
 3. `Arxiv 21/10` CLIP-Adapter: Better Vision-Language Models with Feature Adapters [[paper]](https://arxiv.org/abs/2110.04544) [[code]](https://github.com/gaopengcuhk/clip-adapter) ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
+    > - `Arxiv 21/11` **(Tip-Adapter)** Tip-Adapter: Training-free CLIP-Adapter for Better Vision-Language Modeling [[paper]](https://arxiv.org/pdf/2111.03930.pdf) [[code]](https://github.com/gaopengcuhk/tip-adapter)
+
 4. `CVPR'22` DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting	[[paper]](https://arxiv.org/pdf/2112.01518.pdf)[[code]](https://github.com/raoyongming/denseclip)  ![](https://img.shields.io/badge/semantic--segmentation-759CBC?style=flat-square)
 ![](https://img.shields.io/badge/instance--segmentation-759CBC?style=flat-square)
 ![](https://img.shields.io/badge/object--detection-759CBC?style=flat-square)
@@ -69,8 +71,6 @@ This section contains papers using prompt module as tool for specific applicatio
 - `Arxiv 21/12` Unified Multimodal Pre-training and Prompt-based Tuning for Vision-Language Understanding and Generation [[paper]](https://arxiv.org/abs/2112.05587)
 - `Arxiv 21/11` ClipCap: CLIP Prefix for Image Captioning	[[paper]](https://arxiv.org/abs/2111.09734) [[code]](https://github.com/rmokady/CLIP_prefix_caption)
 - `Arxiv 21/11` Amortized Prompt: Lightweight Fine-Tuning for CLIP in Domain Generalization [[paper]](https://arxiv.org/abs/2111.12853)
-- `Arxiv 21/11` Training-free clip-adapter for better vision-language modeling [[paper]](https://arxiv.org/pdf/2111.03930.pdf) [[code]](https://github.com/gaopengcuhk/tip-adapter)
-
 - `Arxiv 21/09` ActionCLIP: A New Paradigm for Video Action Recognition [[paper]](https://arxiv.org/abs/2109.08472) [[code]](https://github.com/sallymmx/ActionCLIP)
 - `Arxiv 21/08` **(CPT)** Colorful Prompt Tuning for Pre-trained Vision-Language Models [[paper]](https://arxiv.org/abs/2109.11797)
 - `Arxiv 22/06` **(REPE)** Rethinking the Openness of CLIP [[paper]](https://arxiv.org/abs/2206.01986)
