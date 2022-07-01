@@ -32,11 +32,13 @@ Paper information + its tag
 
 5. `CVPR'22` Learning to Prompt for Continual Learning	 [[paper]](https://arxiv.org/abs/2112.08654) [[code]](https://github.com/google-research/l2p) ![](https://img.shields.io/badge/continue--learning-759CBC?style=flat-square)
 
+6. `CVPR'22` Bridge-Prompt: Towards Ordinal Action Understanding in Instructional Videos [[paper]](https://arxiv.org/pdf/2203.14104.pdf) [[code]](https://github.com/ttlmh/Bridge-Prompt) ![](https://img.shields.io/badge/action--recognition-759CBC?style=flat-square) ![](https://img.shields.io/badge/action--segmentation-759CBC?style=flat-square)
+
 6. `Arxiv 22/03` **(VPT)** Visual Prompt Tuning [[paper]](https://arxiv.org/pdf/2203.12119.pdf) ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) 
 
 7. `Arxiv 22/03` Exploring Visual Prompts for Adapting Large-Scale Models [[paper]](https://arxiv.org/pdf/2203.17274.pdf) [[code]](https://github.com/hjbahng/visual_prompting) ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) 
 
-8. `Arxiv 22/04` **(UPL)** Unsupervised Prompt Learning for Vision-Language Models [[paper]](https://arxiv.org/pdf/2204.03649.pdf) [[code]](https://github.com/tonyhuang2022/UPL) ![task](https://img.shields.io/badge/action--recognition-759CBC?style=flat-square) ![](https://img.shields.io/badge/unsupervised-BC9575?style=flat-square)
+8. `Arxiv 22/04` **(UPL)** Unsupervised Prompt Learning for Vision-Language Models [[paper]](https://arxiv.org/pdf/2204.03649.pdf) [[code]](https://github.com/tonyhuang2022/UPL) ![task](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/unsupervised-BC9575?style=flat-square)
 
 9. `Arxiv 22/05` **(AdaptFormer)** AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition
  [[paper]](https://arxiv.org/abs/2205.13535) [[code]](https://github.com/ShoufaChen/AdaptFormer) ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/action--recognition-759CBC?style=flat-square)
