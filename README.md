@@ -2,20 +2,19 @@
 
 ## Introduction 
 A curated list of prompt/adapter-based papers in computer vision and vision-language learning.
-![task](https://img.shields.io/badge/task-image--classification-green?style=flat-square)
-![task](https://img.shields.io/badge/task-point--cloud--recognition-green?style=flat-square)
-![task](https://img.shields.io/badge/task-pre--training-green?style=flat-square)
-![task](https://img.shields.io/badge/task-semantic--segmentation-green?style=flat-square)
-![task](https://img.shields.io/badge/task-instance--segmentation-green?style=flat-square)
-![task](https://img.shields.io/badge/task-object--detection-green?style=flat-square)
 
-![specific tag](https://img.shields.io/badge/NAS-blue?style=flat-square)
+### Keyword
+Task: This paper focus on which task. ![task](https://img.shields.io/badge/task-image--classification-green?style=flat-square)
+
+
+Specific tag: Some characteristic makes this paper unique. ![](https://img.shields.io/badge/NAS-blue?style=flat-square)
 ![](https://img.shields.io/badge/unsupervised-blue?style=flat-square)
 
 ## Prompt module design
 This section contains papers define the general trends of the prompt module design in computer vision. We organize these papers as follows.
 
-Paper name (2) (its tag) e.g. ![task](https://img.shields.io/badge/task-object--detection-green?style=flat-square):
+Paper information + its tag 
+- Its concurrent work (concurrent work)
 - Its improvements 1
 - Its improvements 2
 
@@ -32,8 +31,8 @@ Paper name (2) (its tag) e.g. ![task](https://img.shields.io/badge/task-object--
 
 3. `Arxiv 21/10` CLIP-Adapter: Better Vision-Language Models with Feature Adapters [[paper]](https://arxiv.org/abs/2110.04544) [[code]](https://github.com/gaopengcuhk/clip-adapter) ![](https://img.shields.io/badge/task-image--classification-green?style=flat-square)
 
-4. `Arxiv 22/03` **(VPT)** Visual Prompt Tuning [[paper]](https://arxiv.org/pdf/2203.12119.pdf)
-    > - `Arxiv 22/03` Exploring Visual Prompts for Adapting Large-Scale Models [[paper]](https://arxiv.org/pdf/2203.17274.pdf) [[code]](https://github.com/hjbahng/visual_prompting) ![](https://img.shields.io/badge/task-image--classification-green?style=flat-square)
+4. `Arxiv 22/03` **(VPT)** Visual Prompt Tuning [[paper]](https://arxiv.org/pdf/2203.12119.pdf) ![](https://img.shields.io/badge/task-image--classification-green?style=flat-square) 
+    > - `Arxiv 22/03` Exploring Visual Prompts for Adapting Large-Scale Models [[paper]](https://arxiv.org/pdf/2203.17274.pdf) [[code]](https://github.com/hjbahng/visual_prompting) (concurrent)
 
 5. `Arxiv 22/05` **(AdaptFormer)** AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition
  [[paper]](https://arxiv.org/abs/2205.13535) [[code]](https://github.com/ShoufaChen/AdaptFormer) ![](https://img.shields.io/badge/task-semantic--segmentation-green?style=flat-square) ![](https://img.shields.io/badge/task-image--classification-green?style=flat-square) ![](https://img.shields.io/badge/task-semantic--segmentation-green?style=flat-square)
