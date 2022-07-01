@@ -48,7 +48,7 @@ Learning [[paper]](https://arxiv.org/pdf/2206.13559.pdf) ![task](https://img.shi
 
 
 ## Prompt module application
-This section contains papers using prompt module as tool for specific application (how to design a prompt model is not a contribution in such paper). For example, PointCLIP use text prompt module designed by CLIP to retrive image.
+This section contains papers using prompt module as tool for specific application (how to design a prompt model is not a contribution in such paper). For example, PointCLIP uses text prompt module designed by CLIP to retrive image.
 
 - `CVPR'22` Grounded Language-Image Pre-training [[paper]](https://arxiv.org/pdf/2112.03857.pdf) [[code]](https://github.com/microsoft/GLIP)
 - `CVPR'22` PointCLIP: Point Cloud Understanding by CLIP	[[paper]](https://arxiv.org/pdf/2112.02413.pdf) [[code]](https://github.com/ZrrSkywalker/PointCLIP)
