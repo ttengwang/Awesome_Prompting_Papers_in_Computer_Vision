@@ -4,19 +4,19 @@
 A curated list of prompt-based papers in computer vision and vision-language learning.
 
 **Keywords**:
-* Task tag, e.g., ![](https://img.shields.io/badge/Image--Classification(IC)-759CBC?style=flat-square) ![](https://img.shields.io/badge/VQA-759CBC?style=flat-square)
+* Task tag, e.g., ![](https://img.shields.io/badge/Image--Classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/VQA-759CBC?style=flat-square)
 * Abbreviation tag, e.g., ![](https://img.shields.io/badge/CLIP-CD6155?style=flat-square)
 * Characteristic tag: Some characteristic makes this paper unique, e.g., ![](https://img.shields.io/badge/NAS-BC9575?style=flat-square) ![](https://img.shields.io/badge/unsupervised-BC9575?style=flat-square)
-* **Bold font**: We highlight some pilot work that may contributes to the prevalence of visual prompting.
+* **Bold font**: We highlight some pilot work that may contribute to the prevalence of visual prompting.
 
 
 ## Prompt Learning
-This section contains papers designing prompt modules for parameter-efficient tuning of foundation models.
+This section contains papers designing prompt (contraining adapter) modules for parameter-efficient learning of foundation models.
 
 ### Vision Prompt
 - **Visual Prompt Tuning** [[pdf]](https://arxiv.org/pdf/2203.12119.pdf) 
    
-  `Arxiv 2022/03` ![](https://img.shields.io/badge/VPT-CD6155?style=flat-square) ![](https://img.shields.io/badge/Image--Classification(IC)-759CBC?style=flat-square) 
+  `Arxiv 2022/03` ![](https://img.shields.io/badge/VPT-CD6155?style=flat-square) ![](https://img.shields.io/badge/Image--Classification-759CBC?style=flat-square) 
 
 - **Exploring Visual Prompts for Adapting Large-Scale Models** [[pdf]](https://arxiv.org/pdf/2203.17274.pdf) [[code]](https://github.com/hjbahng/visual_prompting)
 
@@ -119,14 +119,9 @@ This section contains papers designing prompt modules for parameter-efficient tu
 
   `Arxiv 2022/06`
 
-- Zero-Shot Video Question Answering via Frozen Bidirectional Language Models [[pdf]](https://arxiv.org/pdf/2206.08155.pdf)
-
-  `Arxiv 2022/06`
-
-
 
 ### Language-Interactable Prompt
-Language-interactable prompter develops few/zero-shot capabilities by prompting one/serveral independent foundational models (VLMs, LMs, VMs, ALMs, etc.) with language interface. 
+Language-interactable prompter develops few/zero-shot capabilities by prompting one/serveral independent foundational models (VLMs, LMs, VMs, etc.) with language interface. 
 
 - **Multimodal Few-Shot Learning with Frozen Language Models** [[pdf]](https://arxiv.org/abs/2106.13884)
 
@@ -145,7 +140,7 @@ Language-interactable prompter develops few/zero-shot capabilities by prompting 
   `CVPR 2022` ![](https://img.shields.io/badge/captioning-759CBC?)
 
 <bar>
-
+  
 - ClipCap: CLIP Prefix for Image Captioning	[[pdf]](https://arxiv.org/abs/2111.09734) [[code]](https://github.com/rmokady/CLIP_prefix_caption)
 
   `Arxiv 2021/11` ![](https://img.shields.io/badge/captioning-759CBC?)
@@ -158,10 +153,13 @@ Language-interactable prompter develops few/zero-shot capabilities by prompting 
 
   `Arxiv 2022/04` ![](https://img.shields.io/badge/image--classification-759CBC?) ![](https://img.shields.io/badge/VQA-759CBC?) ![](https://img.shields.io/badge/captioning-759CBC?)
 
-- Language Models Can See: Plugging Visual Controls in Text Generation [[pdf]](https://arxiv.org/pdf/2205.02655.pdf)
+- Language Models Can See: Plugging Visual Controls in Text Generation [[pdf]](https://arxiv.org/pdf/2205.02655.pdf) [[code]](https://github.com/yxuansu/MAGIC)
 
-  `Arxiv 2022/05` ![](https://img.shields.io/badge/MAGimage--classification-CD6155?style=flat-square) ![](https://img.shields.io/badge/captioning-759CBC?)
+  `Arxiv 2022/05` ![](https://img.shields.io/badge/MAGIC-CD6155?style=flat-square) ![](https://img.shields.io/badge/captioning-759CBC?)
 
+- Zero-Shot Video Question Answering via Frozen Bidirectional Language Models [[pdf]](https://arxiv.org/pdf/2206.08155.pdf)
+
+  `Arxiv 2022/06`
 
 ## Application of Prompt 
 This section contains awesome papers using prompt module as tools, like papers using prompt for pretraining or specific applications.
@@ -186,13 +184,9 @@ This section contains awesome papers using prompt module as tools, like papers u
 
   `CVPR 2022`
 
-
-
-
-
 <bar>
 
- Unified Multimodal Pre-training and Prompt-based Tuning for Vision-Language Understanding and Generation [[pdf]](https://arxiv.org/abs/2112.05587)
+- Unified Multimodal Pre-training and Prompt-based Tuning for Vision-Language Understanding and Generation [[pdf]](https://arxiv.org/abs/2112.05587)
   `Arxiv 2021/12`
 
 ### Other Resources 
