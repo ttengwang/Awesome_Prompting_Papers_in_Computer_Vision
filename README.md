@@ -11,7 +11,7 @@ A curated list of prompt-based papers in computer vision and vision-language lea
 
 
 ## Prompt Learning
-This section contains papers designing prompt (contraining adapter) modules for parameter-efficient learning of foundation models.
+This section contains papers designing prompt (containing adapter) modules for parameter-efficient learning of foundation models.
 
 ### Vision Prompt
 - **Visual Prompt Tuning** [[pdf]](https://arxiv.org/pdf/2203.12119.pdf) 
@@ -121,7 +121,7 @@ This section contains papers designing prompt (contraining adapter) modules for 
 
 
 ### Language-Interactable Prompt
-Language-interactable prompter develops few/zero-shot capabilities by prompting one/serveral independent foundational models (VLMs, LMs, VMs, etc.) with language interface. 
+Language-interactable prompter develops few/zero-shot capabilities by prompting one/several independent foundational models (VLMs, LMs, VMs, etc.) with the language interface. 
 
 - **Multimodal Few-Shot Learning with Frozen Language Models** [[pdf]](https://arxiv.org/abs/2106.13884)
 
@@ -162,7 +162,7 @@ Language-interactable prompter develops few/zero-shot capabilities by prompting 
   `Arxiv 2022/06`
 
 ## Application of Prompt 
-This section contains awesome papers using prompt module as tools, like papers using prompt for pretraining or specific applications.
+This section contains awesome papers using the prompt module as tools, like papers using prompts for pretraining or specific applications.
 
 - Unifying Vision-and-Language Tasks via Text Generation [[pdf]](https://arxiv.org/abs/2102.02779) [[code]](https://github.com/j-min/T5)
 
@@ -186,11 +186,11 @@ This section contains awesome papers using prompt module as tools, like papers u
 
 <bar>
 
-- Unified Multimodal Pre-training and Prompt-based Tuning for Vision-Language Understanding and Generation [[pdf]](https://arxiv.org/abs/2112.05587)
+- Unified Multimodal Pretraining and Prompt-based Tuning for Vision-Language Understanding and Generation [[pdf]](https://arxiv.org/abs/2112.05587)
   `Arxiv 2021/12`
 
 ### Other Resources 
-[PromptPapers](https://github.com/thunlp/PromptPapers): A comprehensive curated list for prompting paper (mainly in natural language processing)
+[PromptPapers](https://github.com/thunlp/PromptPapers): A comprehensive curated list for prompting papers (mainly in natural language processing)
  Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing	[[pdf]](https://arxiv.org/abs/2107.13586)
   `Arxiv 2021/07`
 
