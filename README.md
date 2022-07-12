@@ -14,7 +14,7 @@ A curated list of prompt-based papers in computer vision and vision-language lea
 This section contains papers designing prompt (containing adapter) modules for parameter-efficient learning of foundation models.
 
 ### Vision Prompt
-- **Visual Prompt Tuning** [[pdf]](https://arxiv.org/pdf/2203.12119.pdf) 
+- **Visual Prompt Tuning** [[pdf]](https://arxiv.org/pdf/2203.12119.pdf) [[code]](https://github.com/KMnP/vpt)
    
   `Arxiv 2022/03` ![](https://img.shields.io/badge/VPT-CD6155?style=flat-square) ![](https://img.shields.io/badge/Image--Classification-759CBC?style=flat-square) 
 
@@ -29,6 +29,10 @@ This section contains papers designing prompt (containing adapter) modules for p
 - AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition [[pdf]](https://arxiv.org/abs/2205.13535) [[code]](https://github.com/ShoufaChen/AdaptFormer)
   
   `Arxiv 2022/05` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/action--recognition-759CBC?style=flat-square)
+
+- Neural Prompt Search [[pdf]](https://arxiv.org/abs/2206.04673) [[code]](https://github.com/Davidzhangyuanhan/NOAH)
+
+  `Arxiv 2022/06` ![](https://img.shields.io/badge/NOAH-CD6155?style=flat-square) ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/NAS-BC9575?style=flat-square)
 
 
 ### Vision-Language Prompt
@@ -99,9 +103,6 @@ This section contains papers designing prompt (containing adapter) modules for p
 
   `Arxiv 2022/05` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
 
-- Neural Prompt Search [[pdf]](https://arxiv.org/abs/2206.04673) [[code]](https://github.com/Davidzhangyuanhan/NOAH)
-
-  `Arxiv 2022/06` ![](https://img.shields.io/badge/NOAH-CD6155?style=flat-square) ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/NAS-BC9575?style=flat-square)
 
 - Parameter-Efficient Image-to-Video Transfer Learning [[pdf]](https://arxiv.org/pdf/2206.13559.pdf)
 
@@ -121,7 +122,7 @@ This section contains papers designing prompt (containing adapter) modules for p
 
 
 ### Language-Interactable Prompt
-Language-interactable prompter develops few/zero-shot capabilities by prompting one/several independent foundational models (VLMs, LMs, VMs, etc.) with the language interface. 
+Language-interactable prompter develops few/**zero-shot** capabilities by prompting one/several independent foundational models (VLMs, LMs, VMs, etc.) with the language interface. 
 
 - **Multimodal Few-Shot Learning with Frozen Language Models** [[pdf]](https://arxiv.org/abs/2106.13884)
 
@@ -138,6 +139,10 @@ Language-interactable prompter develops few/zero-shot capabilities by prompting 
 - VisualGPT: Data-efficient Adaptation of Pretrained Language Models for Image Captioning [[pdf]](https://arxiv.org/pdf/2102.10407.pdf) [[code]](https://github.com/Vision-CAIR/VisualGPT)
 
   `CVPR 2022` ![](https://img.shields.io/badge/captioning-759CBC?)
+
+- Can Language Understand Depth? [[pdf]](https://arxiv.org/pdf/2207.01077.pdf) [[code]](https://github.com/Adonis-galaxy/DepthCLIP)
+
+  `ACM MM 2022` ![](https://img.shields.io/badge/depthclip-CD6155?style=flat-square)  ![](https://img.shields.io/badge/depth--estimation-759CBC?)
 
 <bar>
   
