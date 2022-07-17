@@ -60,7 +60,11 @@ This section contains papers designing prompt (containing adapter) modules for p
 - PointCLIP: Point Cloud Understanding by CLIP [[pdf]](https://arxiv.org/pdf/2112.02413.pdf) [[code]](https://github.com/ZrrSkywalker/PointCLIP)
 
   `CVPR 2022`  ![](https://img.shields.io/badge/point--cloud-759CBC?style=flat-square)
+
+- VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks [[pdf]](https://arxiv.org/pdf/2112.06825.pdf) [[code]](https://github.com/ylsung/VL_adapter)
   
+    `CVPR 2022`  ![](https://img.shields.io/badge/VQA-759CBC?style=flat-square) ![](https://img.shields.io/badge/VideoQA-759CBC?style=flat-square) ![](https://img.shields.io/badge/captioning-759CBC?style=flat-square)
+    
 <bar>
 
 - **Colorful Prompt Tuning for Pre-trained Vision-Language Models** [[pdf]](https://arxiv.org/abs/2109.11797) 
@@ -191,8 +195,8 @@ This section contains awesome papers using the prompt module as tools, like pape
   `Arxiv 2021/12`
 
 ### Other Resources 
-[PromptPapers](https://github.com/thunlp/PromptPapers): A comprehensive curated list for prompting papers (mainly in natural language processing)
- Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing	[[pdf]](https://arxiv.org/abs/2107.13586)
+* [PromptPapers](https://github.com/thunlp/PromptPapers): A comprehensive curated list for prompting papers (mainly in natural language processing)
+* Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing	[[pdf]](https://arxiv.org/abs/2107.13586)
   `Arxiv 2021/07`
 
 
