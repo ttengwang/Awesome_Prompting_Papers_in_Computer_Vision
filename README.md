@@ -11,7 +11,7 @@ A curated list of prompt-based papers in computer vision and vision-language lea
 
 
 ## Prompt Learning
-This section contains papers designing prompt (containing adapter) modules for parameter-efficient adaption of foundation models. 
+This section contains papers designing prompt (containing adapter) modules for parameter-efficient adaptation of foundation models. 
 
 ### Vision Prompt
 - **Visual Prompt Tuning** [[pdf]](https://arxiv.org/pdf/2203.12119.pdf) [[code]](https://github.com/KMnP/vpt)
@@ -65,6 +65,10 @@ This section contains papers designing prompt (containing adapter) modules for p
   
     `CVPR 2022`  ![](https://img.shields.io/badge/VQA-759CBC?style=flat-square) ![](https://img.shields.io/badge/VideoQA-759CBC?style=flat-square) ![](https://img.shields.io/badge/captioning-759CBC?style=flat-square)
     
+- Can Language Understand Depth? [[pdf]](https://arxiv.org/pdf/2207.01077.pdf) [[code]](https://github.com/Adonis-galaxy/DepthCLIP)
+
+  `ACM MM 2022` ![](https://img.shields.io/badge/depthclip-CD6155?style=flat-square)  ![](https://img.shields.io/badge/depth--estimation-759CBC?)
+  
 <bar>
 
 - **Colorful Prompt Tuning for Pre-trained Vision-Language Models** [[pdf]](https://arxiv.org/abs/2109.11797) 
@@ -139,10 +143,6 @@ Language-interactable prompter develops few/**zero-shot** capabilities by prompt
 - VisualGPT: Data-efficient Adaptation of Pretrained Language Models for Image Captioning [[pdf]](https://arxiv.org/pdf/2102.10407.pdf) [[code]](https://github.com/Vision-CAIR/VisualGPT)
 
   `CVPR 2022` ![](https://img.shields.io/badge/captioning-759CBC?)
-
-- Can Language Understand Depth? [[pdf]](https://arxiv.org/pdf/2207.01077.pdf) [[code]](https://github.com/Adonis-galaxy/DepthCLIP)
-
-  `ACM MM 2022` ![](https://img.shields.io/badge/depthclip-CD6155?style=flat-square)  ![](https://img.shields.io/badge/depth--estimation-759CBC?)
 
 <bar>
   
