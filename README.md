@@ -11,7 +11,7 @@ A curated list of prompt-based papers in computer vision and vision-language lea
 
 
 ## Prompt Learning
-This section contains papers designing prompt (containing adapter) modules for parameter-efficient learning of foundation models.
+This section contains papers designing prompt (containing adapter) modules for parameter-efficient adaption of foundation models. 
 
 ### Vision Prompt
 - **Visual Prompt Tuning** [[pdf]](https://arxiv.org/pdf/2203.12119.pdf) [[code]](https://github.com/KMnP/vpt)
@@ -21,11 +21,7 @@ This section contains papers designing prompt (containing adapter) modules for p
 - **Exploring Visual Prompts for Adapting Large-Scale Models** [[pdf]](https://arxiv.org/pdf/2203.17274.pdf) [[code]](https://github.com/hjbahng/visual_prompting)
 
   `Arxiv 2022/03` ![](https://img.shields.io/badge/Image--Classification-759CBC?style=flat-square) 
-
-- Vision Transformer Adapter for Dense Predictions [[pdf]](https://arxiv.org/abs/2205.08534) [[code]](https://github.com/czczup/ViT-Adapter)
-
-  `Arxiv 2022/05` ![](https://img.shields.io/badge/ViT--Adatper-CD6155?style=flat-square) ![](https://img.shields.io/badge/detection-759CBC?style=flat-square)  ![](https://img.shields.io/badge/segmentation-759CBC?style=flat-square)
-
+  
 - AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition [[pdf]](https://arxiv.org/abs/2205.13535) [[code]](https://github.com/ShoufaChen/AdaptFormer)
   
   `Arxiv 2022/05` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/action--recognition-759CBC?style=flat-square)
@@ -166,7 +162,7 @@ Language-interactable prompter develops few/**zero-shot** capabilities by prompt
 
   `Arxiv 2022/06`
 
-## Application of Prompt 
+## Application of Prompt
 This section contains awesome papers using the prompt module as tools, like papers using prompts for pretraining or specific applications.
 
 - Unifying Vision-and-Language Tasks via Text Generation [[pdf]](https://arxiv.org/abs/2102.02779) [[code]](https://github.com/j-min/T5)
