@@ -11,7 +11,7 @@ A curated list of prompt-based papers in computer vision and vision-language lea
 
 
 ## Prompt Learning
-This section contains papers designing prompt (containing adapter) modules for parameter-efficient learning of foundation models.
+This section contains papers designing prompt (containing adapter) modules for parameter-efficient adaptation of foundation models. 
 
 ### Vision Prompt
 - **Visual Prompt Tuning** [[pdf]](https://arxiv.org/pdf/2203.12119.pdf) [[code]](https://github.com/KMnP/vpt)
@@ -21,11 +21,7 @@ This section contains papers designing prompt (containing adapter) modules for p
 - **Exploring Visual Prompts for Adapting Large-Scale Models** [[pdf]](https://arxiv.org/pdf/2203.17274.pdf) [[code]](https://github.com/hjbahng/visual_prompting)
 
   `Arxiv 2022/03` ![](https://img.shields.io/badge/Image--Classification-759CBC?style=flat-square) 
-
-- Vision Transformer Adapter for Dense Predictions [[pdf]](https://arxiv.org/abs/2205.08534) [[code]](https://github.com/czczup/ViT-Adapter)
-
-  `Arxiv 2022/05` ![](https://img.shields.io/badge/ViT--Adatper-CD6155?style=flat-square) ![](https://img.shields.io/badge/detection-759CBC?style=flat-square)  ![](https://img.shields.io/badge/segmentation-759CBC?style=flat-square)
-
+  
 - AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition [[pdf]](https://arxiv.org/abs/2205.13535) [[code]](https://github.com/ShoufaChen/AdaptFormer)
   
   `Arxiv 2022/05` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/action--recognition-759CBC?style=flat-square)
@@ -64,6 +60,14 @@ This section contains papers designing prompt (containing adapter) modules for p
 - PointCLIP: Point Cloud Understanding by CLIP [[pdf]](https://arxiv.org/pdf/2112.02413.pdf) [[code]](https://github.com/ZrrSkywalker/PointCLIP)
 
   `CVPR 2022`  ![](https://img.shields.io/badge/point--cloud-759CBC?style=flat-square)
+
+- VL-Adapter: Parameter-Efficient Transfer Learning for Vision-and-Language Tasks [[pdf]](https://arxiv.org/pdf/2112.06825.pdf) [[code]](https://github.com/ylsung/VL_adapter)
+  
+    `CVPR 2022`  ![](https://img.shields.io/badge/VQA-759CBC?style=flat-square) ![](https://img.shields.io/badge/VideoQA-759CBC?style=flat-square) ![](https://img.shields.io/badge/captioning-759CBC?style=flat-square)
+    
+- Can Language Understand Depth? [[pdf]](https://arxiv.org/pdf/2207.01077.pdf) [[code]](https://github.com/Adonis-galaxy/DepthCLIP)
+
+  `ACM MM 2022` ![](https://img.shields.io/badge/depthclip-CD6155?style=flat-square)  ![](https://img.shields.io/badge/depth--estimation-759CBC?)
   
 <bar>
 
@@ -166,7 +170,7 @@ Language-interactable prompter develops few/**zero-shot** capabilities by prompt
 
   `Arxiv 2022/06`
 
-## Application of Prompt 
+## Application of Prompt
 This section contains awesome papers using the prompt module as tools, like papers using prompts for pretraining or specific applications.
 
 - Unifying Vision-and-Language Tasks via Text Generation [[pdf]](https://arxiv.org/abs/2102.02779) [[code]](https://github.com/j-min/T5)
@@ -195,8 +199,8 @@ This section contains awesome papers using the prompt module as tools, like pape
   `Arxiv 2021/12`
 
 ### Other Resources 
-[PromptPapers](https://github.com/thunlp/PromptPapers): A comprehensive curated list for prompting papers (mainly in natural language processing)
- Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing	[[pdf]](https://arxiv.org/abs/2107.13586)
+* [PromptPapers](https://github.com/thunlp/PromptPapers): A comprehensive curated list for prompting papers (mainly in natural language processing)
+* Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing	[[pdf]](https://arxiv.org/abs/2107.13586)
   `Arxiv 2021/07`
 
 
