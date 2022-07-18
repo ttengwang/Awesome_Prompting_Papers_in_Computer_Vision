@@ -16,7 +16,7 @@ This section contains papers designing prompt (containing adapter) modules for p
 ### Vision Prompt
 - **Visual Prompt Tuning** [[pdf]](https://arxiv.org/pdf/2203.12119.pdf) [[code]](https://github.com/KMnP/vpt)
    
-  `Arxiv 2022/03` ![](https://img.shields.io/badge/VPT-CD6155?style=flat-square) ![](https://img.shields.io/badge/Image--Classification-759CBC?style=flat-square) 
+  `ECCV 2022` ![](https://img.shields.io/badge/VPT-CD6155?style=flat-square) ![](https://img.shields.io/badge/Image--Classification-759CBC?style=flat-square) 
 
 - **Exploring Visual Prompts for Adapting Large-Scale Models** [[pdf]](https://arxiv.org/pdf/2203.17274.pdf) [[code]](https://github.com/hjbahng/visual_prompting)
 
@@ -30,12 +30,20 @@ This section contains papers designing prompt (containing adapter) modules for p
 
   `Arxiv 2022/06` ![](https://img.shields.io/badge/NOAH-CD6155?style=flat-square) ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/NAS-BC9575?style=flat-square)
 
+- Convolutional Bypasses Are Better Vision Transformer Adapters [[pdf]](https://arxiv.org/abs/2207.07039)
+
+  `Arxiv 2022/06`  ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) 
+
 
 ### Vision-Language Prompt
 
 - **Learning Transferable Visual Models From Natural Language Supervision** [[pdf]](https://arxiv.org/abs/2103.00020) [[code]](https://github.com/OpenAI/CLIP) 
 
   `ICML 2021` ![](https://img.shields.io/badge/CLIP-CD6155?style=flat-square) ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
+
+- **Learning to Prompt for Vision-Language Models** [[pdf]](https://arxiv.org/abs/2109.01134) [[code]](https://github.com/KaiyangZhou/CoOp)
+
+  `IJCV 2022`  ![](https://img.shields.io/badge/CoOP-CD6155?style=flat-square) ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
 
 - Prompt Distribution Learning [[pdf]](https://arxiv.org/pdf/2205.03340.pdf)
 
@@ -75,9 +83,6 @@ This section contains papers designing prompt (containing adapter) modules for p
 
   `Arxiv 2021/08` ![](https://img.shields.io/badge/CPT-CD6155?style=flat-square) ![](https://img.shields.io/badge/grounding-759CBC?style=flat-square) 
 
-- **Learning to Prompt for Vision-Language Models** [[pdf]](https://arxiv.org/abs/2109.01134) [[code]](https://github.com/KaiyangZhou/CoOp)
-
-  `Arxiv 2021/09`  ![](https://img.shields.io/badge/CoOP-CD6155?style=flat-square) ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
 
 - ActionCLIP: A New Paradigm for Video Action Recognition [[pdf]](https://arxiv.org/abs/2109.08472) [[code]](https://github.com/sallymmx/ActionCLIP)
 
@@ -166,9 +171,10 @@ Language-interactable prompter develops few/**zero-shot** capabilities by prompt
 
   `Arxiv 2022/05` ![](https://img.shields.io/badge/MAGIC-CD6155?style=flat-square) ![](https://img.shields.io/badge/captioning-759CBC?)
 
-- Zero-Shot Video Question Answering via Frozen Bidirectional Language Models [[pdf]](https://arxiv.org/pdf/2206.08155.pdf)
+- Zero-Shot Video Question Answering via Frozen Bidirectional Language Models [[pdf]](https://arxiv.org/pdf/2206.08155.pdf) 
 
-  `Arxiv 2022/06`
+  `Arxiv 2022/06` ![](https://img.shields.io/badge/VideoQA-759CBC?)
+
 
 ## Application of Prompt
 This section contains awesome papers using the prompt module as tools, like papers using prompts for pretraining or specific applications.
