@@ -47,7 +47,7 @@ This section contains papers designing prompt (containing adapter) modules for p
 
 - Prompt Distribution Learning [[pdf]](https://arxiv.org/pdf/2205.03340.pdf)
 
-  `CVPR 2022`
+  `CVPR 2022` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
 
 - Conditional Prompt Learning for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2203.05557.pdf) [[code]](https://github.com/KaiyangZhou/CoOp)
 
@@ -174,10 +174,13 @@ Language-interactable prompter develops few/**zero-shot** capabilities by prompt
 - Zero-Shot Video Question Answering via Frozen Bidirectional Language Models [[pdf]](https://arxiv.org/pdf/2206.08155.pdf) 
 
   `Arxiv 2022/06` ![](https://img.shields.io/badge/VideoQA-759CBC?)
+<<<<<<< HEAD
 
 -  Visual Clues: Bridging Vision and Language Foundations for Image Paragraph Captioning [[pdf]](https://arxiv.org/pdf/2206.01843.pdf) 
 
   `Arxiv 2022/06` ![](https://img.shields.io/badge/captioning-759CBC?)
+=======
+>>>>>>> ttengwang-main
 
 
 ## Application of Prompt
@@ -206,9 +209,10 @@ This section contains awesome papers using the prompt module as tools, like pape
 <bar>
 
 - Unified Multimodal Pretraining and Prompt-based Tuning for Vision-Language Understanding and Generation [[pdf]](https://arxiv.org/abs/2112.05587)
-  `Arxiv 2021/12`
+  
+   `Arxiv 2021/12`
 
-### Other Resources 
+## Other Resources 
 * [PromptPapers](https://github.com/thunlp/PromptPapers): A comprehensive curated list for prompting papers (mainly in natural language processing)
 * Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing	[[pdf]](https://arxiv.org/abs/2107.13586)
   `Arxiv 2021/07`
