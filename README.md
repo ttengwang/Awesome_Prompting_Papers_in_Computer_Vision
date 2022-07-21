@@ -175,6 +175,10 @@ Language-interactable prompter develops few/**zero-shot** capabilities by prompt
 
   `Arxiv 2022/06` ![](https://img.shields.io/badge/VideoQA-759CBC?)
 
+-  Visual Clues: Bridging Vision and Language Foundations for Image Paragraph Captioning [[pdf]](https://arxiv.org/pdf/2206.01843.pdf) 
+
+  `Arxiv 2022/06` ![](https://img.shields.io/badge/captioning-759CBC?)
+
 
 ## Application of Prompt
 This section contains awesome papers using the prompt module as tools, like papers using prompts for pretraining or specific applications.
