@@ -174,13 +174,10 @@ Language-interactable prompter develops few/**zero-shot** capabilities by prompt
 - Zero-Shot Video Question Answering via Frozen Bidirectional Language Models [[pdf]](https://arxiv.org/pdf/2206.08155.pdf) 
 
   `Arxiv 2022/06` ![](https://img.shields.io/badge/VideoQA-759CBC?)
-<<<<<<< HEAD
 
--  Visual Clues: Bridging Vision and Language Foundations for Image Paragraph Captioning [[pdf]](https://arxiv.org/pdf/2206.01843.pdf) 
-
+- Visual Clues: Bridging Vision and Language Foundations for Image Paragraph Captioning [[pdf]](https://arxiv.org/pdf/2206.01843.pdf) 
+  
   `Arxiv 2022/06` ![](https://img.shields.io/badge/captioning-759CBC?)
-=======
->>>>>>> ttengwang-main
 
 
 ## Application of Prompt
