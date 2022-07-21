@@ -149,10 +149,6 @@ Language-interactable prompter develops few/**zero-shot** capabilities by prompt
 
   `CVPR 2022` ![](https://img.shields.io/badge/captioning-759CBC?)
 
-- Can Language Understand Depth? [[pdf]](https://arxiv.org/pdf/2207.01077.pdf) [[code]](https://github.com/Adonis-galaxy/DepthCLIP)
-
-  `ACM MM 2022` ![](https://img.shields.io/badge/depthclip-CD6155?style=flat-square)  ![](https://img.shields.io/badge/depth--estimation-759CBC?)
-
 <bar>
   
 - ClipCap: CLIP Prefix for Image Captioning	[[pdf]](https://arxiv.org/abs/2111.09734) [[code]](https://github.com/rmokady/CLIP_prefix_caption)
