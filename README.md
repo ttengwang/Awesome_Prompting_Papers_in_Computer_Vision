@@ -14,6 +14,10 @@ A curated list of prompt-based papers in computer vision and vision-language lea
 This section contains papers designing prompt (containing adapter) modules for parameter-efficient adaptation of foundation models. 
 
 ### Vision Prompt
+- **Learning to Prompt for Continual Learning** [[pdf]](https://arxiv.org/abs/2112.08654) [[code]](https://github.com/google-research/l2p)
+
+  `CVPR 2022`  ![](https://img.shields.io/badge/continue--learning-759CBC?style=flat-square)
+
 - **Visual Prompt Tuning** [[pdf]](https://arxiv.org/pdf/2203.12119.pdf) [[code]](https://github.com/KMnP/vpt)
    
   `ECCV 2022` ![](https://img.shields.io/badge/VPT-CD6155?style=flat-square) ![](https://img.shields.io/badge/Image--Classification-759CBC?style=flat-square) 
@@ -21,6 +25,10 @@ This section contains papers designing prompt (containing adapter) modules for p
 - **Exploring Visual Prompts for Adapting Large-Scale Models** [[pdf]](https://arxiv.org/pdf/2203.17274.pdf) [[code]](https://github.com/hjbahng/visual_prompting)
 
   `Arxiv 2022/03` ![](https://img.shields.io/badge/Image--Classification-759CBC?style=flat-square) 
+
+- DualPrompt: Complementary Prompting for Rehearsal-free Continual Learning [[pdf]](https://arxiv.org/pdf/2204.04799.pdf) [[code]](https://github.com/google-research/l2p)
+
+  `ECCV 2022` ![](https://img.shields.io/badge/continue--learning-759CBC?style=flat-square)
   
 - AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition [[pdf]](https://arxiv.org/abs/2205.13535) [[code]](https://github.com/ShoufaChen/AdaptFormer)
   
@@ -33,6 +41,7 @@ This section contains papers designing prompt (containing adapter) modules for p
 - Convolutional Bypasses Are Better Vision Transformer Adapters [[pdf]](https://arxiv.org/abs/2207.07039)
 
   `Arxiv 2022/06`  ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) 
+
 
 
 ### Vision-Language Prompt
@@ -56,10 +65,6 @@ This section contains papers designing prompt (containing adapter) modules for p
 - DenseCLIP: Language-Guided Dense Prediction with Context-Aware Prompting	[[pdf]](https://arxiv.org/pdf/2112.01518.pdf) [[code]](https://github.com/raoyongming/denseclip) 
 
   `CVPR 2022` ![](https://img.shields.io/badge/detection-759CBC?style=flat-square) ![](https://img.shields.io/badge/segmentation-759CBC?style=flat-square) 
-
-- Learning to Prompt for Continual Learning [[pdf]](https://arxiv.org/abs/2112.08654) [[code]](https://github.com/google-research/l2p)
-
-  `CVPR 2022`  ![](https://img.shields.io/badge/continue--learning-BC9575?style=flat-square)
 
 - Bridge-Prompt: Towards Ordinal Action Understanding in Instructional Videos [[pdf]](https://arxiv.org/pdf/2203.14104.pdf) [[code]](https://github.com/ttlmh/Bridge-Prompt) 
 
