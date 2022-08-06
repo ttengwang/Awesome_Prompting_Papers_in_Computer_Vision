@@ -58,10 +58,6 @@ This section contains papers designing prompt (containing adapter) modules for p
 
   `CVPR 2022` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
 
-- Expanding Language-Image Pretrained Models for General Video Recognition [[pdf]](https://arxiv.org/abs/2208.02816) [[code]](https://aka.ms/X-CLIP)
-
-  `ECCV 2022` ![](https://img.shields.io/badge/action--recognition-759CBC?style=flat-square)
-
 - Conditional Prompt Learning for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2203.05557.pdf) [[code]](https://github.com/KaiyangZhou/CoOp)
 
   `CVPR 2022`  ![](https://img.shields.io/badge/CoCoOP-CD6155?style=flat-square) ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
@@ -85,6 +81,10 @@ This section contains papers designing prompt (containing adapter) modules for p
 - Can Language Understand Depth? [[pdf]](https://arxiv.org/pdf/2207.01077.pdf) [[code]](https://github.com/Adonis-galaxy/DepthCLIP)
 
   `ACM MM 2022` ![](https://img.shields.io/badge/depthclip-CD6155?style=flat-square)  ![](https://img.shields.io/badge/depth--estimation-759CBC?)
+
+- Expanding Language-Image Pretrained Models for General Video Recognition [[pdf]](https://arxiv.org/abs/2208.02816) [[code]](https://aka.ms/X-CLIP)
+
+  `ECCV 2022` ![](https://img.shields.io/badge/action--recognition-759CBC?style=flat-square)
   
 <bar>
 
@@ -136,8 +136,11 @@ This section contains papers designing prompt (containing adapter) modules for p
 
 - OrdinalCLIP: Learning Rank Prompts for Language-Guided Ordinal Regression [[pdf]](https://arxiv.org/abs/2206.02338)
 
-  `Arxiv 2022/06`
+  `Arxiv 2022/06` ![](https://img.shields.io/badge/ordinal--regression-759CBC?style=flat-square)
 
+- Prompt Tuning for Generative Multimodal Pretrained Models [[pdf]](https://arxiv.org/abs/2208.02532) [[code]](https://github.com/OFA-Sys/OFA)
+
+  `Arxiv 2022/06` ![](https://img.shields.io/badge/VQA-759CBC?style=flat-square) ![](https://img.shields.io/badge/captioning-759CBC?style=flat-square)  ![](https://img.shields.io/badge/referring--expression-759CBC?style=flat-square)  ![](https://img.shields.io/badge/visual--entailment-759CBC?style=flat-square) 
 
 ### Language-Interactable Prompt
 Language-interactable prompter develops few/**zero-shot** capabilities by prompting one/several independent foundational models (VLMs, LMs, VMs, etc.) with the language interface. 
