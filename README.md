@@ -58,6 +58,10 @@ This section contains papers designing prompt (containing adapter) modules for p
 
   `CVPR 2022` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
 
+- Expanding Language-Image Pretrained Models for General Video Recognition [[pdf]](https://arxiv.org/abs/2208.02816) [[code]](https://aka.ms/X-CLIP)
+
+  `ECCV 2022` ![](https://img.shields.io/badge/action--recognition-759CBC?style=flat-square)
+
 - Conditional Prompt Learning for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2203.05557.pdf) [[code]](https://github.com/KaiyangZhou/CoOp)
 
   `CVPR 2022`  ![](https://img.shields.io/badge/CoCoOP-CD6155?style=flat-square) ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
