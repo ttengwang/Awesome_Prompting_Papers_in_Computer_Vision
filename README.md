@@ -38,9 +38,9 @@ This section contains papers designing prompt (containing adapter) modules for p
 
   `Arxiv 2022/06` ![](https://img.shields.io/badge/NOAH-CD6155?style=flat-square) ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/NAS-BC9575?style=flat-square)
 
-- Convolutional Bypasses Are Better Vision Transformer Adapters [[pdf]](https://arxiv.org/abs/2207.07039)
+- Convolutional Bypasses Are Better Vision Transformer Adapters [[pdf]](https://arxiv.org/abs/2207.07039) [[code]](https://github.com/JieShibo/PETL-ViT)
 
-  `Arxiv 2022/06`  ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) 
+  `Arxiv 2022/07`  ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) 
 
 
 
@@ -86,6 +86,10 @@ This section contains papers designing prompt (containing adapter) modules for p
 
   `ECCV 2022` ![](https://img.shields.io/badge/action--recognition-759CBC?style=flat-square)
   
+- Tip-Adapter: Training-free Adaption of CLIP for Few-shot Classification [[pdf]](https://arxiv.org/pdf/2111.03930.pdf) [[code]](https://github.com/gaopengcuhk/tip-adapter)
+
+  `ECCV 2022` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
+  
 <bar>
 
 - **Colorful Prompt Tuning for Pre-trained Vision-Language Models** [[pdf]](https://arxiv.org/abs/2109.11797) 
@@ -100,10 +104,6 @@ This section contains papers designing prompt (containing adapter) modules for p
 - CLIP-Adapter: Better Vision-Language Models with Feature Adapters [[pdf]](https://arxiv.org/abs/2110.04544) [[code]](https://github.com/gaopengcuhk/clip-adapter)
 
   `Arxiv 2021/10` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
-
-- Tip-Adapter: Training-free CLIP-Adapter for Better Vision-Language Modeling [[pdf]](https://arxiv.org/pdf/2111.03930.pdf) [[code]](https://github.com/gaopengcuhk/tip-adapter)
-
-  `Arxiv 2021/11`  ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
 
 - Amortized Prompt: Lightweight Fine-Tuning for CLIP in Domain Generalization [[pdf]](https://arxiv.org/abs/2111.12853)
 
