@@ -86,7 +86,7 @@ This section contains papers designing prompt (containing adapter) modules for p
 
   `ECCV 2022` ![](https://img.shields.io/badge/action--recognition-759CBC?style=flat-square)
   
-- Tip-Adapter: Training-free Adaption of CLIP for Few-shot Classification [[pdf]](https://arxiv.org/pdf/2111.03930.pdf) [[code]](https://github.com/gaopengcuhk/tip-adapter)
+- Tip-Adapter: Training-free Adaption of CLIP for Few-shot Classification [[pdf]](https://arxiv.org/pdf/2207.09519.pdf) [[code]](https://github.com/gaopengcuhk/tip-adapter)
 
   `ECCV 2022` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
   
