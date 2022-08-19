@@ -46,7 +46,9 @@ This section contains papers designing prompt (containing adapter) modules for p
 
   `Arxiv 2022/08`  ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) 
 
+- Prompt Vision Transformer for Domain Generalization [[pdf]](https://arxiv.org/pdf/2208.08914.pdf) 
 
+  `Arxiv 2022/08`  ![](https://img.shields.io/badge/domain--generalization-759CBC?style=flat-square) 
 
 
 ### Vision-Language Prompt
@@ -216,11 +218,14 @@ This section contains awesome papers using the prompt module as tools, like pape
 
   `CVPR 2022`
 
-<bar>
-
 - Unified Multimodal Pretraining and Prompt-based Tuning for Vision-Language Understanding and Generation [[pdf]](https://arxiv.org/abs/2112.05587)
   
    `Arxiv 2021/12`
+
+- Discovering Bugs in Vision Models using Off-the-shelf Image Generation and Captioning [[pdf]](https://arxiv.org/pdf/2208.08831.pdf)
+
+  `Arxiv 2022/08` ![](https://img.shields.io/badge/Dataset--Creation-759CBC?)
+
 
 ## Other Resources 
 * [PromptPapers](https://github.com/thunlp/PromptPapers): A comprehensive curated list for prompting papers (mainly in natural language processing)
