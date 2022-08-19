@@ -46,7 +46,9 @@ This section contains papers designing prompt (containing adapter) modules for p
 
   `Arxiv 2022/08`  ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) 
 
+- Prompt Vision Transformer for Domain Generalization [[pdf]](https://arxiv.org/pdf/2208.08914.pdf) 
 
+  `Arxiv 2022/08`  ![](https://img.shields.io/badge/domain--generalization-759CBC?style=flat-square) 
 
 
 ### Vision-Language Prompt
