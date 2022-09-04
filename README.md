@@ -33,6 +33,10 @@ This section contains papers designing prompt (containing adapter) modules for p
 - AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition [[pdf]](https://arxiv.org/abs/2205.13535) [[code]](https://github.com/ShoufaChen/AdaptFormer)
   
   `Arxiv 2022/05` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/action--recognition-759CBC?style=flat-square)
+  
+- Vision Transformer Adapter for Dense Predictions [[pdf]](https://arxiv.org/pdf/2205.08534.pdf) [[code]](https://github.com/czczup/ViT-Adapter)
+  
+  `Arxiv 2022/05` ![](https://img.shields.io/badge/object--detection-759CBC?style=flat-square) ![](https://img.shields.io/badge/instance--segmentaion-759CBC?style=flat-square)
 
 - Neural Prompt Search [[pdf]](https://arxiv.org/abs/2206.04673) [[code]](https://github.com/Davidzhangyuanhan/NOAH)
 
@@ -42,6 +46,13 @@ This section contains papers designing prompt (containing adapter) modules for p
 
   `Arxiv 2022/07`  ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) 
 
+- Conv-Adapter: Exploring Parameter Efficient Transfer Learning for ConvNets [[pdf]](https://arxiv.org/pdf/2208.07463.pdf) 
+
+  `Arxiv 2022/08`  ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) 
+
+- Prompt Vision Transformer for Domain Generalization [[pdf]](https://arxiv.org/pdf/2208.08914.pdf) 
+
+  `Arxiv 2022/08`  ![](https://img.shields.io/badge/domain--generalization-759CBC?style=flat-square) 
 
 
 ### Vision-Language Prompt
@@ -141,6 +152,10 @@ This section contains papers designing prompt (containing adapter) modules for p
 - Prompt Tuning for Generative Multimodal Pretrained Models [[pdf]](https://arxiv.org/abs/2208.02532) [[code]](https://github.com/OFA-Sys/OFA)
 
   `Arxiv 2022/06` ![](https://img.shields.io/badge/VQA-759CBC?style=flat-square) ![](https://img.shields.io/badge/captioning-759CBC?style=flat-square)  ![](https://img.shields.io/badge/referring--expression-759CBC?style=flat-square)  ![](https://img.shields.io/badge/visual--entailment-759CBC?style=flat-square) 
+  
+- Prompt Tuning with Soft Context Sharing for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2208.13474.pdf)
+
+  `Arxiv 2022/08` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)  ![](https://img.shields.io/badge/multi--task--learning-759CBC?style=flat-square) 
 
 ### Language-Interactable Prompt
 Language-interactable prompter develops few/**zero-shot** capabilities by prompting one/several independent foundational models (VLMs, LMs, VMs, etc.) with the language interface. 
@@ -211,11 +226,14 @@ This section contains awesome papers using the prompt module as tools, like pape
 
   `CVPR 2022`
 
-<bar>
-
 - Unified Multimodal Pretraining and Prompt-based Tuning for Vision-Language Understanding and Generation [[pdf]](https://arxiv.org/abs/2112.05587)
   
    `Arxiv 2021/12`
+
+- Discovering Bugs in Vision Models using Off-the-shelf Image Generation and Captioning [[pdf]](https://arxiv.org/pdf/2208.08831.pdf)
+
+  `Arxiv 2022/08` ![](https://img.shields.io/badge/Dataset--Creation-759CBC?)
+
 
 ## Other Resources 
 * [PromptPapers](https://github.com/thunlp/PromptPapers): A comprehensive curated list for prompting papers (mainly in natural language processing)
