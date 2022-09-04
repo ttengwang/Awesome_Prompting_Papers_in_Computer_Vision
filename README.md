@@ -54,6 +54,10 @@ This section contains papers designing prompt (containing adapter) modules for p
 
   `Arxiv 2022/08`  ![](https://img.shields.io/badge/domain--generalization-759CBC?style=flat-square) 
 
+- Visual Prompting via Image Inpainting [[pdf]](https://arxiv.org/pdf/2209.00647.pdf) [[code]](https://yossigandelsman.github.io/visual_prompt/)
+
+  `Arxiv 2022/09`  ![](https://img.shields.io/badge/image--to--image--tasks-759CBC?style=flat-square) 
+
 
 ### Vision-Language Prompt
 
