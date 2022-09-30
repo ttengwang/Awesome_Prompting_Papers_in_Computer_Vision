@@ -16,7 +16,7 @@ This section contains papers designing prompt (containing adapter) modules for p
 ### Vision Prompt
 - **Learning to Prompt for Continual Learning** [[pdf]](https://arxiv.org/abs/2112.08654) [[code]](https://github.com/google-research/l2p)
 
-  `CVPR 2022`  ![](https://img.shields.io/badge/continue--learning-759CBC?style=flat-square)
+  `CVPR 2022`  ![](https://img.shields.io/badge/continual--learning-759CBC?style=flat-square)
 
 - **Visual Prompt Tuning** [[pdf]](https://arxiv.org/pdf/2203.12119.pdf) [[code]](https://github.com/KMnP/vpt)
    
@@ -28,7 +28,7 @@ This section contains papers designing prompt (containing adapter) modules for p
 
 - DualPrompt: Complementary Prompting for Rehearsal-free Continual Learning [[pdf]](https://arxiv.org/pdf/2204.04799.pdf) [[code]](https://github.com/google-research/l2p)
 
-  `ECCV 2022` ![](https://img.shields.io/badge/continue--learning-759CBC?style=flat-square)
+  `ECCV 2022` ![](https://img.shields.io/badge/continual--learning-759CBC?style=flat-square)
   
 - AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition [[pdf]](https://arxiv.org/abs/2205.13535) [[code]](https://github.com/ShoufaChen/AdaptFormer)
   
