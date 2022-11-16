@@ -57,6 +57,19 @@ This section contains papers designing prompt (containing adapter) modules for p
 - Visual Prompting via Image Inpainting [[pdf]](https://arxiv.org/pdf/2209.00647.pdf) [[code]](https://yossigandelsman.github.io/visual_prompt/)
 
   `Arxiv 2022/09`  ![](https://img.shields.io/badge/image--to--image--tasks-759CBC?style=flat-square) 
+  
+- Visual Prompt Tuning for Test-time Domain Adaptation [[pdf]](https://arxiv.org/abs/2210.04831)
+
+  `Arxiv 2022/10`  ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) 
+  
+- Visual Prompting for Adversarial Robustness [[pdf]](https://arxiv.org/abs/2210.06284)
+
+  `Arxiv 2022/10`  ![](https://img.shields.io/badge/adversarial--robustness-759CBC?style=flat-square) 
+
+- Prompt Generation Networks for Efficient Adaptation of Frozen Vision Transformers [[pdf]](https://arxiv.org/abs/2210.06466) [[code]](https://github.com/jochemloedeman/PGN)
+
+  `Arxiv 2022/10`  ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) 
+
 
 
 ### Vision-Language Prompt
@@ -96,6 +109,10 @@ This section contains papers designing prompt (containing adapter) modules for p
 - Can Language Understand Depth? [[pdf]](https://arxiv.org/pdf/2207.01077.pdf) [[code]](https://github.com/Adonis-galaxy/DepthCLIP)
 
   `ACM MM 2022` ![](https://img.shields.io/badge/depthclip-CD6155?style=flat-square)  ![](https://img.shields.io/badge/depth--estimation-759CBC?)
+
+- Prompting for Multi-Modal Tracking [[pdf]](https://arxiv.org/abs/2207.14571)
+
+  `ACM MM 2022` ![](https://img.shields.io/badge/object--tracking-CD6155?style=flat-square)
 
 - Expanding Language-Image Pretrained Models for General Video Recognition [[pdf]](https://arxiv.org/abs/2208.02816) [[code]](https://aka.ms/X-CLIP)
 
@@ -165,6 +182,33 @@ This section contains papers designing prompt (containing adapter) modules for p
 
   `Arxiv 2022/09` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/reasoning-759CBC?style=flat-square) 
   
+- CPL: Counterfactual Prompt Learning for Vision and Language Models [[pdf]](https://arxiv.org/abs/2210.10362) [[code]](https://github.com/eric-ai-lab/CPL)
+
+  `Arxiv 2022/10`  ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/retrieval-759CBC?style=flat-square) 
+![](https://img.shields.io/badge/VQA-759CBC?style=flat-square) 
+
+
+- Understanding and Mitigating Overfitting in Prompt Tuning for Vision-Language Models [[pdf]](https://arxiv.org/abs/2211.02219) [[code]](https://github.com/machengcheng2016/Subspace-Prompt-Learning)
+
+  `Arxiv 2022/10` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/object--detection-759CBC?style=flat-square) 
+![](https://img.shields.io/badge/semantic--segmentation-759CBC?style=flat-square) 
+
+
+- Unified Vision and Language Prompt Learning [[pdf]](https://arxiv.org/abs/2210.07225)
+
+  `Arxiv 2022/10` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
+  
+- MaPLe: Multi-modal Prompt Learning [[pdf]](https://arxiv.org/abs/2210.03117) [[code]](https://github.com/muzairkhattak/multimodal-prompt-learning)
+
+  `Arxiv 2022/10` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
+  
+
+- Multi-Prompt Alignment for Multi-source Unsupervised Domain Adaptation [[pdf]](https://arxiv.org/abs/2209.15210)
+
+  `Arxiv 2022/10` ![](https://img.shields.io/badge/domain--adaptation-759CBC?style=flat-square)
+
+
+
 ### Language-Interactable Prompt
 Language-interactable prompter develops few/**zero-shot** capabilities by prompting one/several independent foundational models (VLMs, LMs, VMs, etc.) with the language interface. 
 
