@@ -70,6 +70,9 @@ This section contains papers designing prompt (containing adapter) modules for p
 
   `Arxiv 2022/10`  ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) 
 
+- Multitask Vision-Language Prompt Tuning [[pdf]](https://arxiv.org/abs/2211.11720) [[code]](https://github.com/sIncerass/MVLPT)
+
+  `Arxiv 2022/11` ![](https://img.shields.io/badge/MVLPT-CD6155?style=flat-square) ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)  ![](https://img.shields.io/badge/multitask--learning-BC9575?style=flat-square)
 
 
 ### Vision-Language Prompt
