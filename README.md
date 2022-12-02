@@ -16,7 +16,7 @@ This section contains papers designing prompt (containing adapter) modules for p
 ### Vision Prompt
 - **Learning to Prompt for Continual Learning** [[pdf]](https://arxiv.org/abs/2112.08654) [[code]](https://github.com/google-research/l2p)
 
-  `CVPR 2022`  ![](https://img.shields.io/badge/continue--learning-759CBC?style=flat-square)
+  `CVPR 2022`  ![](https://img.shields.io/badge/continual--learning-759CBC?style=flat-square)
 
 - **Visual Prompt Tuning** [[pdf]](https://arxiv.org/pdf/2203.12119.pdf) [[code]](https://github.com/KMnP/vpt)
    
@@ -28,11 +28,11 @@ This section contains papers designing prompt (containing adapter) modules for p
 
 - DualPrompt: Complementary Prompting for Rehearsal-free Continual Learning [[pdf]](https://arxiv.org/pdf/2204.04799.pdf) [[code]](https://github.com/google-research/l2p)
 
-  `ECCV 2022` ![](https://img.shields.io/badge/continue--learning-759CBC?style=flat-square)
+  `ECCV 2022` ![](https://img.shields.io/badge/continual--learning-759CBC?style=flat-square)
   
 - AdaptFormer: Adapting Vision Transformers for Scalable Visual Recognition [[pdf]](https://arxiv.org/abs/2205.13535) [[code]](https://github.com/ShoufaChen/AdaptFormer)
   
-  `Arxiv 2022/05` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/action--recognition-759CBC?style=flat-square)
+  `NeurIPS 2022` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/action--recognition-759CBC?style=flat-square)
   
 - Vision Transformer Adapter for Dense Predictions [[pdf]](https://arxiv.org/pdf/2205.08534.pdf) [[code]](https://github.com/czczup/ViT-Adapter)
   
@@ -53,6 +53,26 @@ This section contains papers designing prompt (containing adapter) modules for p
 - Prompt Vision Transformer for Domain Generalization [[pdf]](https://arxiv.org/pdf/2208.08914.pdf) 
 
   `Arxiv 2022/08`  ![](https://img.shields.io/badge/domain--generalization-759CBC?style=flat-square) 
+
+- Visual Prompting via Image Inpainting [[pdf]](https://arxiv.org/pdf/2209.00647.pdf) [[code]](https://yossigandelsman.github.io/visual_prompt/)
+
+  `Arxiv 2022/09`  ![](https://img.shields.io/badge/image--to--image--tasks-759CBC?style=flat-square) 
+  
+- Visual Prompt Tuning for Test-time Domain Adaptation [[pdf]](https://arxiv.org/abs/2210.04831)
+
+  `Arxiv 2022/10`  ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) 
+  
+- Visual Prompting for Adversarial Robustness [[pdf]](https://arxiv.org/abs/2210.06284)
+
+  `Arxiv 2022/10`  ![](https://img.shields.io/badge/adversarial--robustness-759CBC?style=flat-square) 
+
+- Prompt Generation Networks for Efficient Adaptation of Frozen Vision Transformers [[pdf]](https://arxiv.org/abs/2210.06466) [[code]](https://github.com/jochemloedeman/PGN)
+
+  `Arxiv 2022/10`  ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) 
+
+- Multitask Vision-Language Prompt Tuning [[pdf]](https://arxiv.org/abs/2211.11720) [[code]](https://github.com/sIncerass/MVLPT)
+
+  `Arxiv 2022/11` ![](https://img.shields.io/badge/MVLPT-CD6155?style=flat-square) ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)  ![](https://img.shields.io/badge/multitask--learning-BC9575?style=flat-square)
 
 
 ### Vision-Language Prompt
@@ -92,6 +112,10 @@ This section contains papers designing prompt (containing adapter) modules for p
 - Can Language Understand Depth? [[pdf]](https://arxiv.org/pdf/2207.01077.pdf) [[code]](https://github.com/Adonis-galaxy/DepthCLIP)
 
   `ACM MM 2022` ![](https://img.shields.io/badge/depthclip-CD6155?style=flat-square)  ![](https://img.shields.io/badge/depth--estimation-759CBC?)
+
+- Prompting for Multi-Modal Tracking [[pdf]](https://arxiv.org/abs/2207.14571)
+
+  `ACM MM 2022` ![](https://img.shields.io/badge/object--tracking-CD6155?style=flat-square)
 
 - Expanding Language-Image Pretrained Models for General Video Recognition [[pdf]](https://arxiv.org/abs/2208.02816) [[code]](https://aka.ms/X-CLIP)
 
@@ -156,6 +180,37 @@ This section contains papers designing prompt (containing adapter) modules for p
 - Prompt Tuning with Soft Context Sharing for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2208.13474.pdf)
 
   `Arxiv 2022/08` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)  ![](https://img.shields.io/badge/multi--task--learning-759CBC?style=flat-square) 
+ 
+- Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models [[pdf]](https://arxiv.org/pdf/2209.07511.pdf) [[code]](https://azshue.github.io/TPT/)
+
+  `Arxiv 2022/09` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/reasoning-759CBC?style=flat-square) 
+  
+- CPL: Counterfactual Prompt Learning for Vision and Language Models [[pdf]](https://arxiv.org/abs/2210.10362) [[code]](https://github.com/eric-ai-lab/CPL)
+
+  `Arxiv 2022/10`  ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/retrieval-759CBC?style=flat-square) 
+![](https://img.shields.io/badge/VQA-759CBC?style=flat-square) 
+
+
+- Understanding and Mitigating Overfitting in Prompt Tuning for Vision-Language Models [[pdf]](https://arxiv.org/abs/2211.02219) [[code]](https://github.com/machengcheng2016/Subspace-Prompt-Learning)
+
+  `Arxiv 2022/10` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/object--detection-759CBC?style=flat-square) 
+![](https://img.shields.io/badge/semantic--segmentation-759CBC?style=flat-square) 
+
+
+- Unified Vision and Language Prompt Learning [[pdf]](https://arxiv.org/abs/2210.07225)
+
+  `Arxiv 2022/10` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
+  
+- MaPLe: Multi-modal Prompt Learning [[pdf]](https://arxiv.org/abs/2210.03117) [[code]](https://github.com/muzairkhattak/multimodal-prompt-learning)
+
+  `Arxiv 2022/10` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
+  
+
+- Multi-Prompt Alignment for Multi-source Unsupervised Domain Adaptation [[pdf]](https://arxiv.org/abs/2209.15210)
+
+  `Arxiv 2022/10` ![](https://img.shields.io/badge/domain--adaptation-759CBC?style=flat-square)
+
+
 
 ### Language-Interactable Prompt
 Language-interactable prompter develops few/**zero-shot** capabilities by prompting one/several independent foundational models (VLMs, LMs, VMs, etc.) with the language interface. 
