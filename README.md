@@ -24,7 +24,7 @@ This section contains papers designing prompt (containing adapter) modules for p
 
 - **Exploring Visual Prompts for Adapting Large-Scale Models** [[pdf]](https://arxiv.org/pdf/2203.17274.pdf) [[code]](https://github.com/hjbahng/visual_prompting)
 
-  `Arxiv 2022/03` ![](https://img.shields.io/badge/Image--Classification-759CBC?style=flat-square) 
+  `arXiv 2022/03` ![](https://img.shields.io/badge/Image--Classification-759CBC?style=flat-square) 
 
 - DualPrompt: Complementary Prompting for Rehearsal-free Continual Learning [[pdf]](https://arxiv.org/pdf/2204.04799.pdf) [[code]](https://github.com/google-research/l2p)
 
@@ -36,23 +36,23 @@ This section contains papers designing prompt (containing adapter) modules for p
   
 - Vision Transformer Adapter for Dense Predictions [[pdf]](https://arxiv.org/pdf/2205.08534.pdf) [[code]](https://github.com/czczup/ViT-Adapter)
   
-  `Arxiv 2022/05` ![](https://img.shields.io/badge/object--detection-759CBC?style=flat-square) ![](https://img.shields.io/badge/instance--segmentaion-759CBC?style=flat-square)
+  `arXiv 2022/05` ![](https://img.shields.io/badge/object--detection-759CBC?style=flat-square) ![](https://img.shields.io/badge/instance--segmentaion-759CBC?style=flat-square)
 
 - Neural Prompt Search [[pdf]](https://arxiv.org/abs/2206.04673) [[code]](https://github.com/Davidzhangyuanhan/NOAH)
 
-  `Arxiv 2022/06` ![](https://img.shields.io/badge/NOAH-CD6155?style=flat-square) ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/NAS-BC9575?style=flat-square)
+  `arXiv 2022/06` ![](https://img.shields.io/badge/NOAH-CD6155?style=flat-square) ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/NAS-BC9575?style=flat-square)
 
 - Convolutional Bypasses Are Better Vision Transformer Adapters [[pdf]](https://arxiv.org/abs/2207.07039) [[code]](https://github.com/JieShibo/PETL-ViT)
 
-  `Arxiv 2022/07`  ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) 
+  `arXiv 2022/07`  ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) 
 
 - Conv-Adapter: Exploring Parameter Efficient Transfer Learning for ConvNets [[pdf]](https://arxiv.org/pdf/2208.07463.pdf) 
 
-  `Arxiv 2022/08`  ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) 
+  `arXiv 2022/08`  ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) 
 
 - Prompt Vision Transformer for Domain Generalization [[pdf]](https://arxiv.org/pdf/2208.08914.pdf) 
 
-  `Arxiv 2022/08`  ![](https://img.shields.io/badge/domain--generalization-759CBC?style=flat-square) 
+  `arXiv 2022/08`  ![](https://img.shields.io/badge/domain--generalization-759CBC?style=flat-square) 
 
 - Visual Prompting via Image Inpainting [[pdf]](https://arxiv.org/pdf/2209.00647.pdf) [[code]](https://yossigandelsman.github.io/visual_prompt/)
 
@@ -60,23 +60,27 @@ This section contains papers designing prompt (containing adapter) modules for p
   
 - Visual Prompt Tuning for Test-time Domain Adaptation [[pdf]](https://arxiv.org/abs/2210.04831)
 
-  `Arxiv 2022/10`  ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) 
+  `arXiv 2022/10`  ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) 
   
 - Visual Prompting for Adversarial Robustness [[pdf]](https://arxiv.org/abs/2210.06284)
 
-  `Arxiv 2022/10`  ![](https://img.shields.io/badge/adversarial--robustness-759CBC?style=flat-square) 
+  `arXiv 2022/10`  ![](https://img.shields.io/badge/adversarial--robustness-759CBC?style=flat-square) 
 
 - Prompt Generation Networks for Efficient Adaptation of Frozen Vision Transformers [[pdf]](https://arxiv.org/abs/2210.06466) [[code]](https://github.com/jochemloedeman/PGN)
 
-  `Arxiv 2022/10`  ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) 
+  `arXiv 2022/10`  ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) 
 
 - Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning [[pdf]](https://arxiv.org/abs/2210.08823) [[code]](https://github.com/dongzelian/SSF)
 
   `NeurIPS 2022` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
   
+- Towards a Unified View on Visual Parameter-Efficient Transfer Learning [[pdf]](https://arxiv.org/abs/2210.00788) [[code]](https://github.com/bruceyo/V-PETL)
+  
+  `arXiv 2022/10` ![](https://img.shields.io/badge/action--recognition-759CBC?style=flat-square)
+  
 - Multitask Vision-Language Prompt Tuning [[pdf]](https://arxiv.org/abs/2211.11720) [[code]](https://github.com/sIncerass/MVLPT)
 
-  `Arxiv 2022/11` ![](https://img.shields.io/badge/MVLPT-CD6155?style=flat-square) ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)  ![](https://img.shields.io/badge/multitask--learning-BC9575?style=flat-square)
+  `arXiv 2022/11` ![](https://img.shields.io/badge/MVLPT-CD6155?style=flat-square) ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)  ![](https://img.shields.io/badge/multitask--learning-BC9575?style=flat-square)
 
 
 ### Vision-Language Prompt
@@ -133,57 +137,57 @@ This section contains papers designing prompt (containing adapter) modules for p
 
 - **Colorful Prompt Tuning for Pre-trained Vision-Language Models** [[pdf]](https://arxiv.org/abs/2109.11797) 
 
-  `Arxiv 2021/08` ![](https://img.shields.io/badge/CPT-CD6155?style=flat-square) ![](https://img.shields.io/badge/grounding-759CBC?style=flat-square) 
+  `arXiv 2021/08` ![](https://img.shields.io/badge/CPT-CD6155?style=flat-square) ![](https://img.shields.io/badge/grounding-759CBC?style=flat-square) 
 
 
 - ActionCLIP: A New Paradigm for Video Action Recognition [[pdf]](https://arxiv.org/abs/2109.08472) [[code]](https://github.com/sallymmx/ActionCLIP)
 
-  `Arxiv 2021/09` ![](https://img.shields.io/badge/action--recognition-759CBC?style=flat-square)
+  `arXiv 2021/09` ![](https://img.shields.io/badge/action--recognition-759CBC?style=flat-square)
 
 - CLIP-Adapter: Better Vision-Language Models with Feature Adapters [[pdf]](https://arxiv.org/abs/2110.04544) [[code]](https://github.com/gaopengcuhk/clip-adapter)
 
-  `Arxiv 2021/10` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
+  `arXiv 2021/10` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
 
 - Amortized Prompt: Lightweight Fine-Tuning for CLIP in Domain Generalization [[pdf]](https://arxiv.org/abs/2111.12853)
 
-  `Arxiv 2021/11` ![](https://img.shields.io/badge/domain--generalization-BC9575?style=flat-square)
+  `arXiv 2021/11` ![](https://img.shields.io/badge/domain--generalization-BC9575?style=flat-square)
 
 - Prompting Visual-Language Models for Efficient Video Understanding [[pdf]](https://arxiv.org/abs/2112.04478) [[code]](https://github.com/ju-chen/Efficient-Prompt)
 
-  `Arxiv 2021/12` ![task](https://img.shields.io/badge/action--recognition-759CBC?style=flat-square) ![task](https://img.shields.io/badge/action--localization-759CBC?style=flat-square) ![task](https://img.shields.io/badge/retrieval-759CBC?style=flat-square)
+  `arXiv 2021/12` ![task](https://img.shields.io/badge/action--recognition-759CBC?style=flat-square) ![task](https://img.shields.io/badge/action--localization-759CBC?style=flat-square) ![task](https://img.shields.io/badge/retrieval-759CBC?style=flat-square)
 
 - Unsupervised Prompt Learning for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2204.03649.pdf) [[code]](https://github.com/tonyhuang2022/UPL)
 
-  `Arxiv 2022/04` ![](https://img.shields.io/badge/UPL-CD6155?style=flat-square) ![task](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/unsupervised-BC9575?style=flat-square)
+  `arXiv 2022/04` ![](https://img.shields.io/badge/UPL-CD6155?style=flat-square) ![task](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/unsupervised-BC9575?style=flat-square)
 
 - Prompt-aligned Gradient for Prompt Tuning [[pdf]](https://arxiv.org/abs/2205.14865) [[code]](https://github.com/BeierZhu/Prompt-align)
 
-  `Arxiv 2022/05` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
+  `arXiv 2022/05` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
 
 
 - Parameter-Efficient Image-to-Video Transfer Learning [[pdf]](https://arxiv.org/pdf/2206.13559.pdf)
 
-  `Arxiv 2022/06`  ![](https://img.shields.io/badge/ST--adapter-CD6155?style=flat-square) ![task](https://img.shields.io/badge/action--recognition-759CBC?style=flat-square)
+  `arXiv 2022/06`  ![](https://img.shields.io/badge/ST--adapter-CD6155?style=flat-square) ![task](https://img.shields.io/badge/action--recognition-759CBC?style=flat-square)
 
 - DualCoOp: Fast Adaptation to Multi-Label Recognition with Limited Annotations [[pdf]](https://arxiv.org/abs/2206.09541)
 
-  `Arxiv 2022/06` ![task](https://img.shields.io/badge/multilabel--recognition-759CBC?style=flat-square)
+  `arXiv 2022/06` ![task](https://img.shields.io/badge/multilabel--recognition-759CBC?style=flat-square)
 
 - Rethinking the Openness of CLIP [[pdf]](https://arxiv.org/abs/2206.01986)
 
-  `Arxiv 2022/06` ![](https://img.shields.io/badge/REPE-CD6155?style=flat-square)
+  `arXiv 2022/06` ![](https://img.shields.io/badge/REPE-CD6155?style=flat-square)
 
 - OrdinalCLIP: Learning Rank Prompts for Language-Guided Ordinal Regression [[pdf]](https://arxiv.org/abs/2206.02338)
 
-  `Arxiv 2022/06` ![](https://img.shields.io/badge/ordinal--regression-759CBC?style=flat-square)
+  `NeurIPS 2022` ![](https://img.shields.io/badge/ordinal--regression-759CBC?style=flat-square)
 
 - Prompt Tuning for Generative Multimodal Pretrained Models [[pdf]](https://arxiv.org/abs/2208.02532) [[code]](https://github.com/OFA-Sys/OFA)
 
-  `Arxiv 2022/06` ![](https://img.shields.io/badge/VQA-759CBC?style=flat-square) ![](https://img.shields.io/badge/captioning-759CBC?style=flat-square)  ![](https://img.shields.io/badge/referring--expression-759CBC?style=flat-square)  ![](https://img.shields.io/badge/visual--entailment-759CBC?style=flat-square) 
+  `arXiv 2022/06` ![](https://img.shields.io/badge/VQA-759CBC?style=flat-square) ![](https://img.shields.io/badge/captioning-759CBC?style=flat-square)  ![](https://img.shields.io/badge/referring--expression-759CBC?style=flat-square)  ![](https://img.shields.io/badge/visual--entailment-759CBC?style=flat-square) 
   
 - Prompt Tuning with Soft Context Sharing for Vision-Language Models [[pdf]](https://arxiv.org/pdf/2208.13474.pdf)
 
-  `Arxiv 2022/08` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)  ![](https://img.shields.io/badge/multi--task--learning-759CBC?style=flat-square) 
+  `arXiv 2022/08` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)  ![](https://img.shields.io/badge/multi--task--learning-759CBC?style=flat-square) 
  
 - Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models [[pdf]](https://arxiv.org/pdf/2209.07511.pdf) [[code]](https://azshue.github.io/TPT/)
 
@@ -191,28 +195,28 @@ This section contains papers designing prompt (containing adapter) modules for p
   
 - CPL: Counterfactual Prompt Learning for Vision and Language Models [[pdf]](https://arxiv.org/abs/2210.10362) [[code]](https://github.com/eric-ai-lab/CPL)
 
-  `Arxiv 2022/10`  ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/retrieval-759CBC?style=flat-square) 
+  `arXiv 2022/10`  ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/retrieval-759CBC?style=flat-square) 
 ![](https://img.shields.io/badge/VQA-759CBC?style=flat-square) 
 
 
 - Understanding and Mitigating Overfitting in Prompt Tuning for Vision-Language Models [[pdf]](https://arxiv.org/abs/2211.02219) [[code]](https://github.com/machengcheng2016/Subspace-Prompt-Learning)
 
-  `Arxiv 2022/10` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/object--detection-759CBC?style=flat-square) 
+  `arXiv 2022/10` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/object--detection-759CBC?style=flat-square) 
 ![](https://img.shields.io/badge/semantic--segmentation-759CBC?style=flat-square) 
 
 
 - Unified Vision and Language Prompt Learning [[pdf]](https://arxiv.org/abs/2210.07225)
 
-  `Arxiv 2022/10` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
+  `arXiv 2022/10` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
   
 - MaPLe: Multi-modal Prompt Learning [[pdf]](https://arxiv.org/abs/2210.03117) [[code]](https://github.com/muzairkhattak/multimodal-prompt-learning)
 
-  `Arxiv 2022/10` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
+  `arXiv 2022/10` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
   
 
 - Multi-Prompt Alignment for Multi-source Unsupervised Domain Adaptation [[pdf]](https://arxiv.org/abs/2209.15210)
 
-  `Arxiv 2022/10` ![](https://img.shields.io/badge/domain--adaptation-759CBC?style=flat-square)
+  `arXiv 2022/10` ![](https://img.shields.io/badge/domain--adaptation-759CBC?style=flat-square)
 
 
 
@@ -221,7 +225,7 @@ Language-interactable prompter develops few/**zero-shot** capabilities by prompt
 
 - **Multimodal Few-Shot Learning with Frozen Language Models** [[pdf]](https://arxiv.org/abs/2106.13884)
 
-  `NIPS 2021` ![](https://img.shields.io/badge/VQA-759CBC?)
+  `NeurIPS 2021` ![](https://img.shields.io/badge/VQA-759CBC?)
   
 - An Empirical Study of GPT-3 for Few-Shot Knowledge-Based VQA [[pdf]](https://arxiv.org/pdf/2109.05014.pdf) [[code]](https://github.com/microsoft/PICa) 
 
@@ -239,27 +243,27 @@ Language-interactable prompter develops few/**zero-shot** capabilities by prompt
   
 - ClipCap: CLIP Prefix for Image Captioning	[[pdf]](https://arxiv.org/abs/2111.09734) [[code]](https://github.com/rmokady/CLIP_prefix_caption)
 
-  `Arxiv 2021/11` ![](https://img.shields.io/badge/captioning-759CBC?)
+  `arXiv 2021/11` ![](https://img.shields.io/badge/captioning-759CBC?)
 
 - Socratic Models: Composing Zero-Shot Multimodal Reasoning with Language [[pdf]](https://arxiv.org/pdf/2204.00598.pdf) [[code]](https://socraticmodels.github.io/#code)
 
-  `Arxiv 2022/04` ![](https://img.shields.io/badge/captioning-759CBC?style=flat-square) ![](https://img.shields.io/badge/retrieval-759CBC?style=flat-square) ![](https://img.shields.io/badge/visual--dialog-759CBC?style=flat-square) 
+  `arXiv 2022/04` ![](https://img.shields.io/badge/captioning-759CBC?style=flat-square) ![](https://img.shields.io/badge/retrieval-759CBC?style=flat-square) ![](https://img.shields.io/badge/visual--dialog-759CBC?style=flat-square) 
 
 - Flamingo: a Visual Language Model for Few-Shot Learning [[pdf]](https://arxiv.org/abs/2204.14198) 
 
-  `Arxiv 2022/04` ![](https://img.shields.io/badge/image--classification-759CBC?) ![](https://img.shields.io/badge/VQA-759CBC?) ![](https://img.shields.io/badge/captioning-759CBC?)
+  `arXiv 2022/04` ![](https://img.shields.io/badge/image--classification-759CBC?) ![](https://img.shields.io/badge/VQA-759CBC?) ![](https://img.shields.io/badge/captioning-759CBC?)
 
 - Language Models Can See: Plugging Visual Controls in Text Generation [[pdf]](https://arxiv.org/pdf/2205.02655.pdf) [[code]](https://github.com/yxuansu/MAGIC)
 
-  `Arxiv 2022/05` ![](https://img.shields.io/badge/MAGIC-CD6155?style=flat-square) ![](https://img.shields.io/badge/captioning-759CBC?)
+  `arXiv 2022/05` ![](https://img.shields.io/badge/MAGIC-CD6155?style=flat-square) ![](https://img.shields.io/badge/captioning-759CBC?)
 
 - Zero-Shot Video Question Answering via Frozen Bidirectional Language Models [[pdf]](https://arxiv.org/pdf/2206.08155.pdf) 
 
-  `Arxiv 2022/06` ![](https://img.shields.io/badge/VideoQA-759CBC?)
+  `arXiv 2022/06` ![](https://img.shields.io/badge/VideoQA-759CBC?)
 
 - Visual Clues: Bridging Vision and Language Foundations for Image Paragraph Captioning [[pdf]](https://arxiv.org/pdf/2206.01843.pdf) 
   
-  `Arxiv 2022/06` ![](https://img.shields.io/badge/captioning-759CBC?)
+  `arXiv 2022/06` ![](https://img.shields.io/badge/captioning-759CBC?)
 
 
 ## Application of Prompt
@@ -287,16 +291,16 @@ This section contains awesome papers using the prompt module as tools, like pape
 
 - Unified Multimodal Pretraining and Prompt-based Tuning for Vision-Language Understanding and Generation [[pdf]](https://arxiv.org/abs/2112.05587)
   
-   `Arxiv 2021/12`
+   `arXiv 2021/12`
 
 - Discovering Bugs in Vision Models using Off-the-shelf Image Generation and Captioning [[pdf]](https://arxiv.org/pdf/2208.08831.pdf)
 
-  `Arxiv 2022/08` ![](https://img.shields.io/badge/Dataset--Creation-759CBC?)
+  `arXiv 2022/08` ![](https://img.shields.io/badge/Dataset--Creation-759CBC?)
 
 
 ## Other Resources 
 * [PromptPapers](https://github.com/thunlp/PromptPapers): A comprehensive curated list for prompting papers (mainly in natural language processing)
 * Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing	[[pdf]](https://arxiv.org/abs/2107.13586)
-  `Arxiv 2021/07`
+  `arXiv 2021/07`
 
 
