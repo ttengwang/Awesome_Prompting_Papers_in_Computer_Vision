@@ -56,7 +56,7 @@ This section contains papers designing prompt (containing adapter) modules for p
 
 - Visual Prompting via Image Inpainting [[pdf]](https://arxiv.org/pdf/2209.00647.pdf) [[code]](https://yossigandelsman.github.io/visual_prompt/)
 
-  `NeurIPS`  ![](https://img.shields.io/badge/image--to--image--tasks-759CBC?style=flat-square)  ![](https://img.shields.io/badge/in--context--learning-BC9575?style=flat-square)
+  `NeurIPS 2022`  ![](https://img.shields.io/badge/image--to--image--tasks-759CBC?style=flat-square)  ![](https://img.shields.io/badge/in--context--learning-BC9575?style=flat-square)
   
 - Visual Prompt Tuning for Test-time Domain Adaptation [[pdf]](https://arxiv.org/abs/2210.04831)
 
