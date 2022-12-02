@@ -56,7 +56,7 @@ This section contains papers designing prompt (containing adapter) modules for p
 
 - Visual Prompting via Image Inpainting [[pdf]](https://arxiv.org/pdf/2209.00647.pdf) [[code]](https://yossigandelsman.github.io/visual_prompt/)
 
-  `Arxiv 2022/09`  ![](https://img.shields.io/badge/image--to--image--tasks-759CBC?style=flat-square) 
+  `NeurIPS`  ![](https://img.shields.io/badge/image--to--image--tasks-759CBC?style=flat-square)  ![](https://img.shields.io/badge/in--context--learning-BC9575?style=flat-square)
   
 - Visual Prompt Tuning for Test-time Domain Adaptation [[pdf]](https://arxiv.org/abs/2210.04831)
 
@@ -70,6 +70,10 @@ This section contains papers designing prompt (containing adapter) modules for p
 
   `Arxiv 2022/10`  ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) 
 
+- Scaling & Shifting Your Features: A New Baseline for Efficient Model Tuning [[pdf]](https://arxiv.org/abs/2210.08823) [[code]](https://github.com/dongzelian/SSF)
+
+  `NeurIPS 2022` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
+  
 - Multitask Vision-Language Prompt Tuning [[pdf]](https://arxiv.org/abs/2211.11720) [[code]](https://github.com/sIncerass/MVLPT)
 
   `Arxiv 2022/11` ![](https://img.shields.io/badge/MVLPT-CD6155?style=flat-square) ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)  ![](https://img.shields.io/badge/multitask--learning-BC9575?style=flat-square)
@@ -183,7 +187,7 @@ This section contains papers designing prompt (containing adapter) modules for p
  
 - Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models [[pdf]](https://arxiv.org/pdf/2209.07511.pdf) [[code]](https://azshue.github.io/TPT/)
 
-  `Arxiv 2022/09` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/reasoning-759CBC?style=flat-square) 
+  `NeurIPS 2022` ![](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) ![](https://img.shields.io/badge/reasoning-759CBC?style=flat-square) 
   
 - CPL: Counterfactual Prompt Learning for Vision and Language Models [[pdf]](https://arxiv.org/abs/2210.10362) [[code]](https://github.com/eric-ai-lab/CPL)
 
