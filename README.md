@@ -14,6 +14,11 @@ A curated list of prompt-based papers in computer vision and vision-language lea
 This section contains papers designing prompt (containing adapter) modules for parameter-efficient adaptation of foundation models. 
 
 ### Vision Prompt
+
+- **Decorate the Newcomers: Visual Domain Prompt for Continual Test Time Adaptation** [[pdf]](https://arxiv.org/pdf/2212.04145.pdf)
+
+  `AAAI 2023`  ![](https://img.shields.io/badge/continual--learning-759CBC?style=flat-square)
+
 - **Learning to Prompt for Continual Learning** [[pdf]](https://arxiv.org/abs/2112.08654) [[code]](https://github.com/google-research/l2p)
 
   `CVPR 2022`  ![](https://img.shields.io/badge/continual--learning-759CBC?style=flat-square)
