@@ -139,6 +139,10 @@ This section contains papers designing prompt (containing adapter) modules for p
   
 <bar>
 
+- Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition [[pdf]](https://arxiv.org/abs/2304.04704) [[code]](https://github.com/amazon-science/prompt-pretraining)
+
+  `arXiv 2023/04` ![](https://img.shields.io/badge/POMP-CD6155?style=flat-square) ![task](https://img.shields.io/badge/image--classification-759CBC?style=flat-square) ![task](https://img.shields.io/badge/object--detection-759CBC?style=flat-square) ![task](https://img.shields.io/badge/semantic--segmentation-759CBC?style=flat-square) ![](https://img.shields.io/badge/pre--training-BC9575?style=flat-square)
+
 - **Colorful Prompt Tuning for Pre-trained Vision-Language Models** [[pdf]](https://arxiv.org/abs/2109.11797) 
 
   `arXiv 2021/08` ![](https://img.shields.io/badge/CPT-CD6155?style=flat-square) ![](https://img.shields.io/badge/grounding-759CBC?style=flat-square) 
@@ -177,9 +181,9 @@ This section contains papers designing prompt (containing adapter) modules for p
 
   `arXiv 2022/06` ![task](https://img.shields.io/badge/multilabel--recognition-759CBC?style=flat-square)
 
-- Rethinking the Openness of CLIP [[pdf]](https://arxiv.org/abs/2206.01986)
+- Delving into the Openness of CLIP [[pdf]](https://arxiv.org/abs/2206.01986) [[code]](https://github.com/lancopku/clip-openness)
 
-  `arXiv 2022/06` ![](https://img.shields.io/badge/REPE-CD6155?style=flat-square)
+  `ACL 2023` ![](https://img.shields.io/badge/REPE-CD6155?style=flat-square) ![task](https://img.shields.io/badge/image--classification-759CBC?style=flat-square)
 
 - OrdinalCLIP: Learning Rank Prompts for Language-Guided Ordinal Regression [[pdf]](https://arxiv.org/abs/2206.02338)
 
