@@ -7,7 +7,7 @@ A curated list of prompt-based papers in computer vision and vision-language lea
   - [Vision Prompt](#vision-prompt)
   - [Vision-Language Prompt](#vision-language-prompt)
     - [Language-Interactable Prompt](#language-interactable-prompt)
-    - [Vision-Language Instructon Tuning](#vision-language-instructon-tuning)
+    - [Vision-Language Instruction Tuning](#vision-language-instruction-tuning)
   - [More Resources](#more-resources)
 
 ### Keywords
@@ -41,59 +41,80 @@ This section collects papers prompting pretrained vision foundation models (e.g.
   `NeurIPS 2022` 
 
 - P2P: Tuning Pre-trained Image Models for Point Cloud Analysis with Point-to-Pixel Prompting [[paper]](https://arxiv.org/abs/2208.02812) [[code]](https://github.com/wangzy22/P2P)
+
   `NeurIPS 2022` ![](https://img.shields.io/badge/3D--point--cloud--tasks-759CBC?) 
 
 - Generative Visual Prompt: Unifying Distributional Control of Pre-Trained Generative Models [[paper]](https://arxiv.org/abs/2209.06970) [[code]](https://github.com/ChenWu98/Generative-Visual-Prompt)
+
   `NeurIPS 2022` ![](https://img.shields.io/badge/image--generation-759CBC?) 
 
 - Visual Prompting via Image Inpainting [[paper]]() [[code]](https://github.com/amirbar/visual_prompting)
+
   `NeurIPS 2022` ![](https://img.shields.io/badge/visual--in--context--learning-759CBC?) ![](https://img.shields.io/badge/image--generation-759CBC?) 
 
+- Decorate the Newcomers: Visual Domain Prompt for Continual Test Time Adaptation [[paper]](https://arxiv.org/abs/2212.04145)
+
+  `AAAI 2023` 
+
 - LPT: Long-tailed Prompt Tuning for Image Classification [[paper]](https://openreview.net/forum?id=8pOVAeo8ie) 
+
   `ICLR 2023` 
 
 - Diversity-Aware Meta Visual Prompting [[paper]](https://arxiv.org/abs/2303.08138) [[code]](https://github.com/shikiw/DAM-VP)
+
   `CVPR 2023` 
 
 - Semantic Prompt for Few-Shot Image Recognition [[paper]](https://arxiv.org/abs/2303.14123) 
+
   `CVPR 2023` ![](https://img.shields.io/badge/few--shot--learning-759CBC?) 
 
 
 - Visual Prompt Tuning for Generative Transfer Learning [[paper]](https://arxiv.org/abs/2210.00990) [[code]](https://github.com/google-research/generative_transfer)
+
   `CVPR 2023` ![](https://img.shields.io/badge/image--generative--tasks-759CBC?) 
 
 - CORA: Adapting CLIP for Open-Vocabulary Detection with Region Prompting and Anchor Pre-Matching [[paper]](https://arxiv.org/abs/2303.13076) [[code]](https://github.com/tgxs002/CORA)
+
   `CVPR 2023` ![](https://img.shields.io/badge/open--vocabulary--detection-759CBC?) 
 
 - Images Speak in Images: A Generalist Painter for In-Context Visual Learning [[paper]](https://arxiv.org/abs/2212.02499) [[code]](https://arxiv.org/abs/2212.02499)
+
   `CVPR 2023` ![](https://img.shields.io/badge/image--generation-759CBC?)  ![](https://img.shields.io/badge/in--context--learning-759CBC?)
 
 - PIVOT: Prompting for Video Continual Learning [[paper]](https://arxiv.org/abs/2212.04842)
+
   `CVPR 2023` ![](https://img.shields.io/badge/continual--learning-759CBC?) 
 
-- Learning Expressive Prompting With Residuals for Vision Transformers [[paper]](https://arxiv.org/abs/2303.15591) [[code]]()
+- Learning Expressive Prompting With Residuals for Vision Transformers [[paper]](https://arxiv.org/abs/2303.15591)
+
   `CVPR 2023` ![](https://img.shields.io/badge/semantic--segmentation-759CBC?) 
 
 - BlackVIP: Black-Box Visual Prompting for Robust Transfer Learning [[paper]](https://arxiv.org/abs/2303.14773) [[code]](https://github.com/changdaeoh/BlackVIP)
+
   `CVPR 2023` ![](https://img.shields.io/badge/black--box--optimization-759CBC?) 
 
 - Visual Prompt Multi-Modal Tracking [[paper]](https://arxiv.org/abs/2303.10826) [[code]](https://github.com/jiawen-zhu/ViPT)
+
   `CVPR 2023` ![](https://img.shields.io/badge/object--training-759CBC?) 
 
 - A-La-Carte Prompt Tuning (APT): Combining Distinct Data Via Composable Prompting [[paper]](https://arxiv.org/abs/2302.07994) 
+
   `CVPR 2023` ![](https://img.shields.io/badge/continual--learning-759CBC?) 
 
 - Understanding and Improving Visual Prompting: A Label-Mapping Perspective [[paper]](https://arxiv.org/abs/2211.11635) [[code]](https://github.com/OPTML-Group/ILM-VP)
+
   `CVPR 2023` 
 
 - Visual Query Tuning: Towards Effective Usage of Intermediate Representations for Parameter and Memory Efficient Transfer Learning [[paper]](https://arxiv.org/abs/2212.03220) [[code]](https://github.com/andytu28/VQT)
+
   `CVPR 2023` 
 
-- Explicit Visual Prompting for Low-Level Structure Segmentations low-level segmentation
- [[paper]](https://arxiv.org/abs/2303.10883) [[code]](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt)
+- Explicit Visual Prompting for Low-Level Structure Segmentations low-level segmentation [[paper]](https://arxiv.org/abs/2303.10883) [[code]](https://github.com/NiFangBaAGe/Explicit-Visual-Prompt)
+
   `CVPR 2023` ![](https://img.shields.io/badge/low--level--segmentation-759CBC?) 
 
 - Understanding and Improving Visual Prompting: A Label-Mapping Perspective [[paper]](https://arxiv.org/abs/2211.11635) [[code]](https://github.com/OPTML-Group/ILM-VP)
+
   `CVPR 2023` 
 
 **ArXiv Papers**
@@ -205,52 +226,76 @@ This section collects papers prompting pretrained vision-language foundation mod
 - Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models [[paper]](https://arxiv.org/pdf/2209.07511.pdf) [[code]](https://azshue.github.io/TPT/)
 
   `NeurIPS 2022` 
+ 
+
 
 - Learning to Decompose Visual Features with Latent Textual Prompts [[paper]](https://openreview.net/forum?id=wtcud6HroZr)
+
   `ICLR 2023` 
 
-- PLOT: Prompt Learning with Optimal Transport for Vision-Language Models [[paper]](https://openreview.net/forum?id=zqwryBoXYnh) [[code]]()
+- PLOT: Prompt Learning with Optimal Transport for Vision-Language Models [[paper]](https://openreview.net/forum?id=zqwryBoXYnh) [[code]](https://github.com/CHENGY12/PLOT)
+
   `ICLR 2023` 
 
 - Visual-Language Prompt Tuning with Knowledge-guided Context Optimization [[paper]](https://arxiv.org/abs/2303.13283) [[code]](https://github.com/htyao89/KgCoOp)
+
   `CVPR 2023` ![](https://img.shields.io/badge/image--classification-759CBC?)
 
 - Open-Set Fine-Grained Retrieval Via Prompting Vision-Language Evaluator [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Wang_Open-Set_Fine-Grained_Retrieval_via_Prompting_Vision-Language_Evaluator_CVPR_2023_paper.pdf) 
+
   `CVPR 2023` ![](https://img.shields.io/badge/open--set--retrieval-759CBC?) 
 
 - Multimodal Prompting With Missing Modalities for Visual Recognition [[paper]](https://arxiv.org/abs/2303.03369) [[code]](https://github.com/YiLunLee/Missing_aware_prompts)
+
   `CVPR 2023` 
 
 - Efficient Multimodal Fusion Via Interactive Prompting [[paper]](https://arxiv.org/abs/2304.06306)
+
   `CVPR 2023` ![](https://img.shields.io/badge/multimodal--classification-759CBC?) 
 
 - Hierarchical Prompt Learning for Multi-Task Learning [[paper]](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_Hierarchical_Prompt_Learning_for_Multi-Task_Learning_CVPR_2023_paper.pdf) [[code]](https://github.com/lynlynlyn/hipro)
+
   `CVPR 2023` ![](https://img.shields.io/badge/multitask--learning-759CBC?) 
 
 - Text-Visual Prompting for Efficient 2D Temporal Video Grounding [[paper]](https://arxiv.org/abs/2303.04995)
+
   `CVPR 2023` ![](https://img.shields.io/badge/video--grounding-759CBC?) 
 
 - VoP: Text-Video Co-operative Prompt Tuning for Cross-Modal Retrieval [[paper]](https://arxiv.org/abs/2211.12764) [[code]](https://github.com/bighuang624/VoP)
+
   `CVPR 2023` ![](https://img.shields.io/badge/text--video--retrieval-759CBC?) 
 
 - MaPLe: Multi-modal Prompt Learning [[paper]](https://arxiv.org/abs/2210.03117) [[code]](https://github.com/muzairkhattak/multimodal-prompt-learning)
 
+
   `CVPR 2023` 
 
 - Texts as Images in Prompt Tuning for Multi-Label Image Recognition [[paper]](https://arxiv.org/abs/2211.12739) [[code]](https://github.com/guozix/TaI-DPT)
+
   `CVPR 2023` ![](https://img.shields.io/badge/multi--label--recognition-759CBC?) 
 
 
 - Vita-CLIP: Video and Text Adaptive CLIP Via Multimodal Prompting [[paper]](https://arxiv.org/abs/2304.03307) [[code]](https://github.com/TalalWasim/Vita-CLIP)
+
   `CVPR 2023` ![](https://img.shields.io/badge/action--recognition-759CBC?) 
 
 
 - LASP: Text-to-Text Optimization for Language-Aware Soft Prompting of Vision & Language Models [[paper]](https://arxiv.org/abs/2210.01115) [[code]](https://www.adrianbulat.com/lasp)
+
   `CVPR 2023` 
 
 - $\pi$-Tuning: Transferring Multimodal Foundation Models with Optimal Multi-task Interpolation [[paper]](https://arxiv.org/abs/2304.14381) [[code]](https://github.com/TencentARC/pi-Tuning)
+
   `ICML 2023` 
 
+- POUF: Prompt-oriented unsupervised fine-tuning for large pre-trained models [[paper]](https://arxiv.org/abs/2305.00350) [[code]](https://github.com/korawat-tanwisuth/POUF)
+
+  `ICML 2023` 
+  
+- Rethinking the Openness of CLIP [[paper]](https://arxiv.org/abs/2206.01986) [[code]](https://github.com/lancopku/clip-openness)
+
+  `ACL 2023` ![](https://img.shields.io/badge/REPE-CD6155?style=flat-square)
+  
 <bar>
 
 **ArXiv Papers**
@@ -293,11 +338,6 @@ This section collects papers prompting pretrained vision-language foundation mod
 
   `arXiv 2022/06` ![task](https://img.shields.io/badge/multilabel--recognition-759CBC?style=flat-square)
 
-- Rethinking the Openness of CLIP [[paper]](https://arxiv.org/abs/2206.01986)
-
-  `arXiv 2022/06` ![](https://img.shields.io/badge/REPE-CD6155?style=flat-square)
-
-
 - Prompt Tuning for Generative Multimodal Pretrained Models [[paper]](https://arxiv.org/abs/2208.02532) [[code]](https://github.com/OFA-Sys/OFA)
 
   `arXiv 2022/06` ![](https://img.shields.io/badge/VQA-759CBC?style=flat-square) ![](https://img.shields.io/badge/captioning-759CBC?style=flat-square)  ![](https://img.shields.io/badge/referring--expression-759CBC?style=flat-square)  ![](https://img.shields.io/badge/visual--entailment-759CBC?style=flat-square) 
@@ -329,8 +369,10 @@ This section collects papers prompting pretrained vision-language foundation mod
 
   `arXiv 2022/10` ![](https://img.shields.io/badge/domain--adaptation-759CBC?style=flat-square)
 
-
-
+- Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition [[paper]](https://arxiv.org/abs/2304.04704) [[code]](https://github.com/amazon-science/prompt-pretraining)
+    
+  `arXiv 2023/04`
+    
 ### Language-Interactable Prompt
 Language-interactable prompter develops zero/few-shot capabilities by prompting **several independent foundational models** (VLMs, LLMs, VMs, etc.) with the language interface. One of the most attractive applications is [multimodal chatbot](https://github.com/zjr2000/Awesome-Multimodal-Assistant).
 
@@ -381,24 +423,29 @@ Language-interactable prompter develops zero/few-shot capabilities by prompting 
   `arXiv 2022/06` ![](https://img.shields.io/badge/captioning-759CBC?)
 
 
-### Vision-Language Instructon Tuning
+### Vision-Language Instruction Tuning
 
 The goal of vision-language instruction tuning is to train a model that can effectively understand  instructions for general-purpose multimodal tasks. 
 
 - Visual Instruction Tuning [[paper]](https://arxiv.org/abs/2304.08485) [[code]](https://github.com/haotian-liu/LLaVA) [[demo]](https://llava.hliu.cc/)
+
   `arXiv 2023/04` 
 
 - MiniGPT-4: Enhancing Vision-Language Understanding with Advanced Large Language Models [[paper]](https://arxiv.org/abs/2304.10592) [[code]](https://github.com/Vision-CAIR/MiniGPT-4) [[demo]](minigpt-4.github.io)
+
   `arXiv 2023/04` 
 
 - Otter: A Multi-Modal Model with In-Context Instruction Tuning [[paper]](https://arxiv.org/abs/2305.03726) [[code]](https://github.com/Luodian/Otter) [[demo]](otter.cliangyu.com/)
+
   `arXiv 2023/05` 
 
 - MultiModal-GPT: A Vision and Language Model for Dialogue with Humans [[paper]](https://arxiv.org/abs/2305.04790) [[code]](https://github.com/open-mmlab/Multimodal-GPT)
+
   `arXiv 2023/05` 
 
 - InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning [[paper]](https://arxiv.org/abs/2305.06500) [[code]](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) 
- `arXiv 2023/05` 
+
+  `arXiv 2023/05` 
 
 
 
