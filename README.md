@@ -295,7 +295,11 @@ This section collects papers prompting pretrained vision-language foundation mod
 - Rethinking the Openness of CLIP [[paper]](https://arxiv.org/abs/2206.01986) [[code]](https://github.com/lancopku/clip-openness)
 
   `ACL 2023` ![](https://img.shields.io/badge/REPE-CD6155?style=flat-square)
-  
+
+- PromptStyler: Prompt-driven Style Generation for Source-free Domain Generalization [[paper]](https://arxiv.org/abs/2307.15199) [[code]](https://promptstyler.github.io/)
+
+  `ICCV 2023` ![](https://img.shields.io/badge/PromptStyler-CD6155?style=flat-square)  
+
 <bar>
 
 **ArXiv Papers**
