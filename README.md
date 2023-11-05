@@ -452,6 +452,11 @@ The goal of vision-language instruction tuning is to train a model that can effe
   `arXiv 2023/05` 
 
 
+- InstructCV: Instruction-Tuned Text-to-Image Diffusion Models as Vision Generalists [[paper]](https://arxiv.org/abs/2310.00390) [[code]](https://github.com/AlaaLab/InstructCV) [[demo]](https://huggingface.co/spaces/alaa-lab/InstructCV)
+
+  `arXiv 2023/09`
+
+
 
 
 ## More Resources 
