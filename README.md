@@ -449,7 +449,11 @@ The goal of vision-language instruction tuning is to train a model that can effe
 
 - InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning [[paper]](https://arxiv.org/abs/2305.06500) [[code]](https://github.com/salesforce/LAVIS/tree/main/projects/instructblip) 
 
-  `arXiv 2023/05` 
+  `arXiv 2023/05`
+
+- BLIVA: A Simple Multimodal LLM for Better Handling of Text-Rich Visual Questions [[paper]](https://arxiv.org/abs/2308.09936) [[code]](https://github.com/mlpc-ucsd/BLIVA) 
+
+  `arXiv 2023/08` 
 
 
 - InstructCV: Instruction-Tuned Text-to-Image Diffusion Models as Vision Generalists [[paper]](https://arxiv.org/abs/2310.00390) [[code]](https://github.com/AlaaLab/InstructCV) [[demo]](https://huggingface.co/spaces/alaa-lab/InstructCV)
