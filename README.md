@@ -376,6 +376,11 @@ This section collects papers prompting pretrained vision-language foundation mod
 - Prompt Pre-Training with Twenty-Thousand Classes for Open-Vocabulary Visual Recognition [[paper]](https://arxiv.org/abs/2304.04704) [[code]](https://github.com/amazon-science/prompt-pretraining)
     
   `arXiv 2023/04`
+
+- Improving Adaptability and Generalizability of Efficient Transfer Learning for Vision-Language Models [[paper]](https://arxiv.org/abs/2311.15569) 
+
+  `arXiv 2023/11`
+
     
 ### Language-Interactable Prompt
 Language-interactable prompter develops zero/few-shot capabilities by prompting **several independent foundational models** (VLMs, LLMs, VMs, etc.) with the language interface. One of the most attractive applications is [multimodal chatbot](https://github.com/zjr2000/Awesome-Multimodal-Assistant).
