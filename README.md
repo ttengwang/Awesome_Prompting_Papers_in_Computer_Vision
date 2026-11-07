@@ -226,6 +226,10 @@ This section collects papers prompting pretrained vision-language foundation mod
 - Test-Time Prompt Tuning for Zero-Shot Generalization in Vision-Language Models [[paper]](https://arxiv.org/pdf/2209.07511.pdf) [[code]](https://azshue.github.io/TPT/)
 
   `NeurIPS 2022` 
+
+- Efficient Test-Time Prompt Tuning for Vision-Language Models [[paper]](https://link.springer.com/article/10.1007/s11263-026-03019-3)
+
+  `IJCV 2026`
  
 
 
@@ -236,6 +240,14 @@ This section collects papers prompting pretrained vision-language foundation mod
 - PLOT: Prompt Learning with Optimal Transport for Vision-Language Models [[paper]](https://openreview.net/forum?id=zqwryBoXYnh) [[code]](https://github.com/CHENGY12/PLOT)
 
   `ICLR 2023` 
+
+- AWT: Transferring Vision-Language Models via Augmentation, Weighting, and Transportation [[paper]](https://proceedings.neurips.cc/paper_files/paper/2024/hash/2d4eaf042567f1c03c086103cc154c1f-Abstract-Conference.html) [[code]](https://github.com/MCG-NJU/AWT)
+
+  `NeurIPS 2024`
+
+- FreeRet: MLLMs as Training-Free Retrievers [[paper]](https://proceedings.mlr.press/v306/zhu26ba.html) [[code]](https://github.com/MCG-NJU/FreeRet)
+
+  `ICML 2026`
 
 - Visual-Language Prompt Tuning with Knowledge-guided Context Optimization [[paper]](https://arxiv.org/abs/2303.13283) [[code]](https://github.com/htyao89/KgCoOp)
 
@@ -455,6 +467,26 @@ The goal of vision-language instruction tuning is to train a model that can effe
 - InstructCV: Instruction-Tuned Text-to-Image Diffusion Models as Vision Generalists [[paper]](https://arxiv.org/abs/2310.00390) [[code]](https://github.com/AlaaLab/InstructCV) [[demo]](https://huggingface.co/spaces/alaa-lab/InstructCV)
 
   `arXiv 2023/09`
+
+- Video-o3: Native Interleaved Clue Seeking for Long Video Multi-Hop Reasoning [[paper]](https://arxiv.org/abs/2601.23224) [[code]](https://github.com/MCG-NJU/Video-o3)
+
+  `ICML 2026`
+
+- JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence [[paper]](https://arxiv.org/abs/2606.14777) [[code]](https://github.com/jd-opensource/JoyAI-VL-Interaction)
+
+  `arXiv 2026`
+
+- VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding [[paper]](https://arxiv.org/abs/2607.14935) [[code]](https://github.com/MCG-NJU/VideoChat3)
+
+  `arXiv 2026`
+
+- TimeLens2: Generalist Video Temporal Grounding with Multimodal LLMs [[paper]](https://arxiv.org/abs/2607.17423) [[code]](https://github.com/MCG-NJU/TimeLens2)
+
+  `arXiv 2026`
+
+- OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction [[paper]](https://arxiv.org/abs/2610.01762) [[code]](https://github.com/MCG-NJU/OneStreamer)
+
+  `arXiv 2026`
 
 
 
